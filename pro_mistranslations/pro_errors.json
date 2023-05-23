@@ -1,0 +1,686 @@
+[
+   {
+      "wrong translation": "Sie wurde 1905 aufgestellt und stand vor dem alten Gerichtsgebäude Anne County, am gleichen Ort wo einst Sklaven versteigert wurden.",
+      "correct translation": "Es wurde 1905 aufgestellt und stand vor dem alten Gerichtsgebäude Anne County, am gleichen Ort wo einst Sklaven versteigert wurden.",
+      "context": "VIRGINIA BEACH, Va. -- Die Stadt Virginia Beach hat am Samstag ein 115 Jahre altes Konföderierten Denkmal von öffentlichem Boden entfernt, weniger als zwei Tage nachdem der Stadtrat einstimmig dafür gestimmt hatte. Arbeiter entfernten das 27 Fuß (8,2 Meter) hohe Denkmal am Samstag morgen, berichteten die Medien.",
+      "reference": "Es wurde 1905 aufgestellt und stand vor dem alten Gerichtsgebäude von Princess Anne County, an der Stelle, an der einst Sklavenauktionen stattfanden.",
+      "reference context": "VIRGINIA BEACH, Virginia - Die Stadt Virginia Beach entfernte am Samstag ein 115 Jahre altes Konföderierten-Denkmal von öffentlichem Grund, weniger als zwei Tage nachdem der Stadtrat einstimmig dafür gestimmt hatte. Arbeiter bauten das 8,2 Meter hohe Denkmal am Samstagmorgen ab, berichteten die Medien.",
+      "source": "It was installed in 1905 and stood outside the old Princess Anne County courthouse, in the same place that slave auctions were once held.",
+      "source context": "VIRGINIA BEACH, Va. -- The city of Virginia Beach removed a 115-year-old Confederate monument from public grounds on Saturday, less than two days after the City Council voted unanimously to do so. Workers took down the 27-foot (8.2-meter) tall monument on Saturday morning, media outlets reported."
+   },
+   {
+      "wrong translation": "Er sagte, dass die Maßnahme „Tausende von britischen Reiseplänen ins Chaos stürzt“.",
+      "correct translation": "Sie sagte, dass die Maßnahme „Tausende von britischen Reiseplänen ins Chaos stürzt“.",
+      "context": "Aber nachdem die Flug- und Reiseindustrie Druck machten, veröffentlichten die Regierung und Verwaltungen eine Liste mit Ländern die von den Regeln ausgenommen sind. British Airways sagte, dass sie enttäuscht sind über die neuesten Änderungen an den Reiseempfehlungen und Regeln, wobei sie jedoch sagten, dass ihre Flüge weiterhin stattfinden werden.",
+      "reference": "Sie sagte, dass der Schritt „die Reisepläne von Tausenden von Briten ins Chaos stürzt“.",
+      "reference context": "Aber nach dem Druck der Luftfahrt- und Reiseindustrie veröffentlichten die Regierung und die dezentralen Verwaltungen Listen von Ländern, die von den Regeln ausgenommen sind. British Airways äußerte sich „enttäuscht“ über die jüngsten Änderungen der Reisehinweise und -regeln der Regierung, obwohl die Fluggesellschaft sagte, dass ihre Flüge weiterhin durchgeführt würden.",
+      "source": "It said the move was \"throwing thousands of Britons' travel plans into chaos.\"",
+      "source context": "But after pressure from the aviation and travel industries, the government and devolved administrations published lists of countries exempt from the rules. British Airways said it was \"disappointed\" about the latest changes to the government's travel advice and rules, although the airline said its flights were continuing to operate."
+   },
+   {
+      "wrong translation": "Er habe das gleiche auch in Madhya Pradesh gemacht, sagte die Kongresspartei weiter.",
+      "correct translation": "Sie habe das gleiche auch in Madhya Pradesh gemacht, sagte die Kongresspartei weiter.",
+      "context": "Die Partei erklärte, dass eine Protestveranstaltung vor dem Rashtrapati Bhavan stattfinden werde, dem offiziellen Amtssitz von Präsident Ram Nath Kovind. In dem Video beschuldigt die Kongresspartei BJP, „die Verfassung zu zerreißen und die Demokratie zu zerstören“, während das Land gegen den Coronavirus ankämpft.",
+      "reference": "Sie hat dasselbe in Madhya Pradesh getan, sagte der Kongress.",
+      "reference context": "Während die Partei sagte, dass ein Protest außerhalb des Rashtrapati Bhavan, der offiziellen Residenz von Präsident Ram Nath Kovind, stattfinden wird. In dem Video beschuldigt der Kongress die BJP, „die Verfassung zu zerreißen und die Demokratie zu zerstören“, während das ganze Land gegen das Coronavirus kämpft.",
+      "source": "It has done the same in Madhya Pradesh, the Congress said.",
+      "source context": "While the party said a protest will be held outside the Rashtrapati Bhavan, the official residence of President Ram Nath Kovind. In the video, the Congress has accused the BJP of \"Ripping up the constitution and demolishing democracy\" while the whole country is fighting the coronavirus."
+   },
+   {
+      "wrong translation": "„Sie ist weiterhin aktiv und weiterhin tödlich. Unsere Priorität ist es, die Verbreitung des Virus einzudämmen und die öffentliche Gesundheit zu schützen.“",
+      "correct translation": "„Er ist weiterhin aktiv und weiterhin tödlich. Unsere Priorität ist es, die Verbreitung des Virus einzudämmen und die öffentliche Gesundheit zu schützen.“",
+      "context": "Aber die neuesten Daten gaben uns Grund zur Besorgnis und zum Widerruf der Entscheidung. „Wir verstehen, dass das eine Enttäuschung ist. Wir haben jedoch immer deutlich klargestellt, dass wir die Entwicklung der Pandemie in allen Ländern sorgfältig beobachten und dass wir gegebenenfalls ein Land aus der Liste der Ausnahmen von der Quarantänepflicht streichen müssen, sollte die Verbreitung des Virus wieder zunehmen.“",
+      "reference": "\"Es ist immer noch aktiv und immer noch tödlich. Das Virus zu unterdrücken, seine Übertragung zu verhindern und die öffentliche Gesundheit zu schützen, ist unsere Priorität.“",
+      "reference context": "„Aber die neuesten Daten geben eindeutig Anlass zur Sorge, diese Entscheidung zu kippen.“ \"Wir sind uns bewusst, dass dies enttäuschend sein wird. Wir haben jedoch immer deutlich gemacht, dass wir die Pandemiesituation in allen Ländern genau beobachten und dass wir möglicherweise ein Land von der Liste der Orte, die von der Quarantänepflicht ausgenommen sind, streichen müssen, sollte das Virus ein Wiederaufleben zeigen.“",
+      "source": "\"It is still active and it is still deadly. Suppressing the virus, preventing it from being transmitted and protecting public health is our priority.\"",
+      "source context": "But clearly the latest data has given us cause for concern to overturn that decision. \"We appreciate that this will be disappointing. However, we have always been clear we are closely monitoring the pandemic situation in all countries and that we may require to remove a country from the list of places exempt from quarantine requirements should the virus show a resurgence.\""
+   },
+   {
+      "wrong translation": "Sie hat auch zum Ziel Taliban-Kämpfer, welche sich dem Abkommen mit den USA widersetzen, anzuziehen, so im Bericht, der sich auf ein US-Friedensabkommen mit der Taliban im Februar, bezieht.",
+      "correct translation": "Er hat auch zum Ziel Taliban-Kämpfer, welche sich dem Abkommen mit den USA widersetzen, anzuziehen, so im Bericht, der sich auf ein US-Friedensabkommen mit der Taliban im Februar, bezieht.",
+      "context": "Der Bericht besagte auch, dass das Überwachungsteam Informationen erhalten hat, dass zwei wichtige Anführer des Islamischen Staates, Abu Qutaibah und Abu Hajar al-Iraqi, kürzlich aus dem Nahen Osten kommend in Afghanistan angekommen seien. „Obwohl er sich geographisch zurückzieht, (der Islamische Staat) bleibt er fähig hochkarätige Angriffe auf verschiedene Teile des Landes durchzuführen, darunter auch Kabul.",
+      "reference": "Er zielt auch darauf ab, Talibankämpfer anzulocken, die gegen das Abkommen mit den Vereinigten Staaten sind“, so der Bericht, der sich auf ein im Februar unterzeichnetes Friedensabkommen der USA mit den Taliban bezieht.",
+      "reference context": "In dem Bericht heißt es weiter, das Überwachungsteam habe Informationen erhalten, dass zwei hochrangige Befehlshaber des Islamischen Staates, Abu Qutaibah und Abu Hajar al-Iraqi, kürzlich aus dem Nahen Osten nach Afghanistan gekommen seien. „Obwohl er sich territorial zurückzieht, ist (der Islamische Staat) weiterhin in der Lage, hochkarätige Anschläge in verschiedenen Teilen des Landes, einschließlich Kabul, zu verüben.",
+      "source": "It also aims to attract Taliban fighters who oppose the agreement with the United States,\" the report said, referring to a U.S. peace deal signed with the Taliban in February.",
+      "source context": "The report also said the monitoring team had received information that two senior Islamic State commanders, Abu Qutaibah and Abu Hajar al-Iraqi, had recently arrived in Afghanistan from the Middle East. \"Although in territorial retreat, (the Islamic State) remains capable of carrying out high-profile attacks in various parts of the country, including Kabul."
+   },
+   {
+      "wrong translation": "Er ergänzte, dass der Aufenthalt im Land ausschließlich Passagieren mit einem Nachweis eines solchen Tests gestattet ist. Dieser muss in englischer Sprache vorliegen und die drei Namen und Nummern des Passes oder Identitätsnachweises der jeweiligen Person aufweisen. Die griechischen Behörden werden keine Nachweise akzeptieren, die diese Anforderungen nicht erfüllen.",
+      "correct translation": "Es ergänzte, dass der Aufenthalt im Land ausschließlich Passagieren mit einem Nachweis eines solchen Tests gestattet ist. Dieser muss in englischer Sprache vorliegen und die drei Namen und Nummern des Passes oder Identitätsnachweises der jeweiligen Person aufweisen. Die griechischen Behörden werden keine Nachweise akzeptieren, die diese Anforderungen nicht erfüllen.",
+      "context": "In Österreich ist auch bei negativem PCR-Testergebnis eine häusliche Quarantäne vorgeschrieben. Das Gleiche gilt bereits in Deutschland. Für die kommenden 14 Tage wird die Einreise nach Südrumänien ohne Angabe von Gründen verweigert. Derweil wurden in Griechenland die Maßnahmen an den Landesgrenzen noch weiter verschärft. Laut Angaben des bulgarischen Außenministeriums müssen Flugpassagiere, die von Bulgarien nach Griechenland reisen möchten, den griechischen Grenzbehörden ab Dienstag ein negatives Ergebnis eines PCR-Tests auf das Coronavirus vorlegen, der zum Einreisezeitpunkt höchstens 72 Stunden alt sein darf.",
+      "reference": "Sie fügten hinzu, dass nur Passagiere, die ein Zertifikat für einen solchen Test haben, ins Land gelassen werden. Es muss in englischer Sprache ausgestellt sein und die drei Namen und Nummern des Reisepasses oder Personalausweises des Passagiers enthalten. Die Behörden in unserem südlichen Nachbarland akzeptieren keine Zertifikate, die diese Anforderungen nicht erfüllen",
+      "reference context": "Obligatorische Heimquarantäne in Österreich, trotz negativem PCR-Test. Dies ist bereits für die Einreise nach Deutschland erforderlich. Für die nächsten 14 Tage wurde der Zugang nach Südrumänien ohne triftigen Grund verweigert. Und Griechenland hat die Maßnahmen entlang seiner Landgrenzen noch weiter verschärft. Ab Dienstag müssen Reisende, die mit dem Flugzeug von Bulgarien nach Griechenland reisen, den griechischen Grenzbehörden ein negatives Ergebnis eines PCR-Tests auf Coronaviren vorlegen, der bis zu 72 Stunden vor der Einreise in unser südliches Nachbarland durchgeführt wird, teilte das Außenministerium mit.",
+      "source": "They added that only passengers who have a certificate for such a test will be allowed in the country. It must be issued in English and contain the three names and numbers of the passenger's passport or identity card. The authorities in our southern neighbor will not accept certificates that do not meet these requirements",
+      "source context": "Mandatory home quarantine in Austria, despite a negative PCR test. This is already required for those entering Germany. For the next 14 days, access to southern Romania was denied without good reason. And Greece has tightened measures even more along its land borders. From Tuesday, those traveling by plane from Bulgaria to Greece will have to present to the Greek border authorities a negative result from a PCR test for coronavirus, performed up to 72 hours before their entry into our southern neighbor, the Ministry of Foreign Affairs announced."
+   },
+   {
+      "wrong translation": "Die Labour-Abgeordnete Jess Phillips sagte am Samstag: „Gerade die Wiley-Sache gesehen. Warum um Himmels Willen lässt @Twitter so unverhohlenen Antisemitismus und Hass online? All die gefährlichen Lügen sind vertreten, wie dass Juden mehr als du bekommen, dass sie alles kontrollieren, sich für etwas Besseres halten ... Das ist gefährlich. Er sollte unbedingt entfernt werden.“",
+      "correct translation": "Die Labour-Abgeordnete Jess Phillips sagte am Samstag: „Gerade die Wiley-Sache gesehen. Warum um Himmels Willen lässt @Twitter so unverhohlenen Antisemitismus und Hass online? All die gefährlichen Lügen sind vertreten, wie dass Juden mehr als du bekommen, dass sie alles kontrollieren, sich für etwas Besseres halten ... Das ist gefährlich. Es sollte unbedingt entfernt werden.“",
+      "context": "In einem Video auf Instagram hörte es sich jedoch an, als sei es Wiley gewesen, der sich von seinem Management trennte. Weitere Parlamentsmitglieder kritisierten Twitter dafür, dass die Tweets so lange sichtbar waren.",
+      "reference": "Der Labour-Abgeordnete Jess Phillips sagte am Samstag: „Ich habe gerade das ganze Wiley-Zeug gelesen. Wie konnte @Twitter nur solch schreienden Antisemitismus und Hass stehen lassen? Darin sind alle gefährlichen Klischees enthalten, Juden bekommen, was du nicht bekommst, sie haben die Kontrolle, sie halten sich für etwas Besseres... Das ist wirklich gefährlich. Es müsste doch sicher gelöscht werden.“",
+      "reference context": "In einem Video auf Instagram schien Wiley jedoch zu sagen, dass er es war, der die Beziehungen mit seinem Management abgebrochen hatte. Andere Abgeordnete kritisierten Twitter, weil zugelassen wurde, dass die Tweets sichtbar blieben.",
+      "source": "Labour MP Jess Phillips said on Saturday: \"Just seen all the Wiley stuff. Why on earth have @Twitter left up such blatant antisemitism and hatred? It hits all the dangerous beats, Jews get things you don't get, they are in control, they think their better... This is dangerous stuff. Surely it should come down.\"",
+      "source context": "However, in a video on Instagram, Wiley appeared to say it was him who had cut ties with his management. Other MPs criticised Twitter for allowing the tweets to remain visible."
+   },
+   {
+      "wrong translation": "Er sagte: „Ich glaube, er hat vermutlich überall dort sein Ziel verfehlt, wo Leute uns in der Erwartung anrufen, dass Sie anstatt der staatlichen Unterstützung von 50 Prozent des Darlehens eine sehr billige Finanzierung erhalten können.“",
+      "correct translation": "Er sagte: „Ich glaube, sie hat vermutlich überall dort ihr Ziel verfehlt, wo Leute uns in der Erwartung anrufen, dass Sie anstatt der staatlichen Unterstützung von 50 Prozent des Darlehens eine sehr billige Finanzierung erhalten können.“",
+      "context": "Die kleineren Wirtschaftsbereiche, die von den großen Banken oft unzureichend bedient werden, wenden sich vermehrt an Online-Kreditgeber, um an Finanzierungen zu gelangen. Herr Callaghan stellte jedoch fest, dass Online-Kreditgeber im Vergleich zu den großen Banken im Nachteil seien, weil sie keinen Zugang zu den gleichen günstigen Finanzierungen haben und warnte, dass die Garantiemaßnahme für Klein- und Mittelunternehmen deswegen nicht greife.",
+      "reference": "„Wahrscheinlich hat es das Ziel verfehlt, dass all die Leute, die uns anrufen, in der Erwartung anrufen, dass sie eine sehr billige Finanzierung bekommen können, anstatt dass die Regierung 50 Prozent des Kredits unterstützt“, sagte er.",
+      "reference context": "Der Kleinunternehmersektor, der von den großen Banken oft unterversorgt ist, hat sich zunehmend an Online-Kreditgeber gewandt, um seinen Finanzierungsbedarf zu decken. Mr. Callaghan sagte jedoch, dass Online-Kreditgeber im Vergleich zu den großen Banken benachteiligt seien, da sie keinen Zugang zu denselben günstigen Finanzierungsmöglichkeiten hätten, und warnte, dass das KMU-Bürgschaftsprogramm deshalb nicht an Zugkraft gewinne.",
+      "source": "\"I think it has probably missed the mark where all the people who call us, call in the expectation they can get very cheap funding rather than the government backing 50 per cent of the loan,\" he said.",
+      "source context": "The small business sector, often under-served by the big banks, has increasingly turned to online lenders to meet its funding needs. However, Mr Callaghan said online lenders were disadvantaged compared to the big banks because they did not have access to the same lower priced funding and warned as a result the SME guarantee scheme was not gaining traction."
+   },
+   {
+      "wrong translation": "Sie sagte: „Wir wissen, dass er weltbekannt ist und es ist fantastisch, dass die Renovierungsarbeiten in Kürze beginnen wird.“",
+      "correct translation": "Sie sagte: „Wir wissen, dass es weltbekannt ist und es ist fantastisch, dass die Renovierungsarbeiten in Kürze beginnen wird.“",
+      "context": "„Die Tatsache, dass die Arbeiten für die 10 Millionen Pfund Renovierung in Kürze beginnen werden, ist das beste Geburtstagsgeschenk das es gibt, und wird es künftigen Generationen ermöglichen die Brücke in all ihrer Schönheit zu genießen.“ Ice Scotland Direktorin Hannah Smith beschrieb die Brücke als ein „oft übersehenes“ Teil des schottischen Ingenieurserbes.",
+      "reference": "Sie sagte: „Wir wissen, dass sie in der ganzen Welt bekannt ist, und es ist fantastisch, dass die Arbeiten für ihre Renovierung bald beginnen werden.“",
+      "reference context": "„Die Tatsache, dass die Arbeiten für die 10 Millionen Pfund teure Renovierung in Kürze beginnen werden, ist jedoch das beste Geburtstagsgeschenk, das möglich ist, und wird sicherstellen, dass auch kommende Generationen die Brücke in ihrer ganzen Pracht genießen können.“ Die Direktorin von Ice Scotland, Hannah Smith, beschrieb die Brücke als einen „oft übersehenen“ Teil des schottischen Ingenieurserbes.",
+      "source": "She said: \"We know it is renowned the world over and it is fantastic that work will shortly commence on its renovation.\"",
+      "source context": "\"However, the fact that work is shortly going to begin on the £10m renovation is the best birthday present possible and will ensure generations to come will be able to enjoy the bridge in all its splendour.\" Ice Scotland director Hannah Smith described the bridge as an \"often-overlooked\" part of Scotland's engineering heritage."
+   },
+   {
+      "wrong translation": "Jetzt, wo viele sie mit guten Ergebnissen ausprobiert haben, wird sie sich vielleicht auf Dauer durchsetzen.",
+      "correct translation": "Jetzt, wo viele es mit guten Ergebnissen ausprobiert haben, wird es sich vielleicht auf Dauer durchsetzen.",
+      "context": "Wir haben verschiedene Belege dafür, dass die Arbeit von zu Hause mindestens genauso produktiv ist, wie die Arbeit im Büro. Viele Unternehmen haben sich jedoch gesträubt, das Smart Working anzunehmen.",
+      "reference": "Jetzt, wo viele es mit guten Ergebnissen ausprobiert haben, könnte Telearbeit auf Dauer Bestand haben.",
+      "reference context": "Wir hatten einige Beweise dafür, dass die Arbeit von zu Hause aus mindestens genauso produktiv ist wie die Arbeit im Büro. Viele Unternehmen waren jedoch zurückhaltend, was die Telearbeit anging.",
+      "source": "Now that many have tried it with good results, remote work might be here to stay.",
+      "source context": "We had some evidence that working from home is at least as productive as working at the office. However, many companies were reluctant to embrace remote work."
+   },
+   {
+      "wrong translation": "„Er wird im Wesentlichen für die EU gut sein, weil er den Warenhandel erleichtern wird, jedoch für uns im Hinblick auf Dienstleistungen sehr hemmend wirken.“",
+      "correct translation": "„Es wird im Wesentlichen für die EU gut sein, weil es den Warenhandel erleichtern wird, jedoch für uns im Hinblick auf Dienstleistungen sehr hemmend wirken.“",
+      "context": "Tony Blair hatte vorher im Interview gesagt, dass Großbritannien und die EU noch immer vor Ende des Jahres ein Abkommen zur Brexit treffen könnten. Er sagte: „Sie könnten ein Abkommen treffen. Aber selbst ein gemeinsames Abkommen wird nicht gut sein.“",
+      "reference": "„Es wird im Wesentlichen gut für Europa sein, weil er einen leichteren Handel mit Waren ermöglicht, aber sehr hemmend für uns in der Frage der Dienstleistungen.“",
+      "reference context": "Zuvor hatte Mr. Blair in dem Interview gesagt, dass Großbritannien und die EU noch vor Ende des Jahres eine Einigung über den Brexit erzielen könnten. Er sagte: „Sie könnten einen Deal an Land ziehen. Aber selbst der Deal, den wir an Land ziehen, wird schlecht sein.“",
+      "source": "\"It's essentially going to be good for Europe because it will allow easier trade in goods but very inhibiting for us on the issue of services.\"",
+      "source context": "Earlier in the interview, Mr Blair said that the UK and EU could still land a deal on Brexit before the end of the year. He said: \"They could land a deal. But even the deal we land is going to be bad.\""
+   },
+   {
+      "wrong translation": "Er wurde 1905 aufgestellt und stand vor dem alten Gerichtsgebäude von Princess Anne County, an der Stelle, an der einst Sklavenauktionen stattfanden.",
+      "correct translation": "Es wurde 1905 aufgestellt und stand vor dem alten Gerichtsgebäude von Princess Anne County, an der Stelle, an der einst Sklavenauktionen stattfanden.",
+      "context": "VIRGINIA BEACH, Virginia - Die Stadt Virginia Beach entfernte am Samstag ein 115 Jahre altes Konföderierten-Denkmal von öffentlichem Grund, weniger als zwei Tage nachdem der Stadtrat einstimmig dafür gestimmt hatte. Arbeiter bauten das 8,2 Meter hohe Denkmal am Samstagmorgen ab, berichteten die Medien.",
+      "reference": "Es wurde 1905 aufgestellt und stand vor dem alten Gerichtsgebäude Anne County, am gleichen Ort wo einst Sklaven versteigert wurden.",
+      "reference context": "VIRGINIA BEACH, Va. -- Die Stadt Virginia Beach hat am Samstag ein 115 Jahre altes Konföderierten Denkmal von öffentlichem Boden entfernt, weniger als zwei Tage nachdem der Stadtrat einstimmig dafür gestimmt hatte. Arbeiter entfernten das 27 Fuß (8,2 Meter) hohe Denkmal am Samstag morgen, berichteten die Medien.",
+      "source": "It was installed in 1905 and stood outside the old Princess Anne County courthouse, in the same place that slave auctions were once held.",
+      "source context": "VIRGINIA BEACH, Va. -- The city of Virginia Beach removed a 115-year-old Confederate monument from public grounds on Saturday, less than two days after the City Council voted unanimously to do so. Workers took down the 27-foot (8.2-meter) tall monument on Saturday morning, media outlets reported."
+   },
+   {
+      "wrong translation": "Zu diesem Zeitpunkt wurde er zur Zahlung von ca. 1,9 Milliarden Dollar als Strafzahlungen und zur Verhinderung eines vergleichbaren Fehlverhaltens verurteilt.",
+      "correct translation": "Zu diesem Zeitpunkt wurde sie zur Zahlung von ca. 1,9 Milliarden Dollar als Strafzahlungen und zur Verhinderung eines vergleichbaren Fehlverhaltens verurteilt.",
+      "context": "Laut neuen Beweisen, die von der Global Times zitiert werden, war HSBC die Beziehung des chinesischen Unternehmens mit Skycom genau bekannt. Die Bank habe sich 2012 mit der US-Regierung „zusammengetan“, um einer strengeren Strafe zu entgehen, als die Bank Geldwäsche und Nichteinhaltung von Sanktionen, einschließlich Einschränkungen bezüglich des Iran, eingestehen musste.",
+      "reference": "Damals wurde die Bank dazu verpflichtet, eine Geldstrafe von 1,9 Milliarden US-Dollar zu zahlen und ähnliches zukünftiges Fehlverhalten zu verhindern.",
+      "reference context": "Laut neuer Beweise, die von der Global Times zitiert wurden, war sich HSBC im Klaren darüber, in welcher Beziehung das chinesische Unternehmen zu Skycom stand. Die Bank soll eine „Absprache“ mit der US-Regierung eingegangen sein, um strengere Strafen zu umgehen, als sie 2012 Vorwürfe der Geldwäscherei und Verstöße gegen Sanktionen, einschließlich der Restriktionen gegen den Iran, einräumen musste.",
+      "source": "It was ordered at the time to pay around $1.9 billion in penalties and to prevent any similar misconduct.",
+      "source context": "According new evidence cited by the Global Times, HSBC was well aware of the Chinese company's relationship with Skycom. The bank reportedly opted to \"collude\" with the US government to escape more severe punishment in 2012, when the bank had to admit to money laundering and sanctions violations, including restrictions on Iran."
+   },
+   {
+      "wrong translation": "Sie betont, dass die Entscheidung des angolanischen Staatsoberhauptes auch das demografische Wachstum des Landes berücksichtigt, das eine „enorme Nachfrage“ nach qualitativ hochwertigen Gesundheitsdienstleistungen in den verschiedensten Fachbereichen motiviert hat.",
+      "correct translation": "Es betont, dass die Entscheidung des angolanischen Staatsoberhauptes auch das demografische Wachstum des Landes berücksichtigt, das eine „enorme Nachfrage“ nach qualitativ hochwertigen Gesundheitsdienstleistungen in den verschiedensten Fachbereichen motiviert hat.",
+      "context": "In einer Mitteilung teilt die Pressestelle des Präsidenten der Republik mit, dass die Maßnahme darauf abzielt, das Regierungsprinzip des Aufbaus und der Erweiterung des Netzes der öffentlichen Krankenhäuser zu verwirklichen, um eine bessere medizinische Versorgung und Medikamente für die Bevölkerung zu gewährleisten. „In diesem speziellen Fall ist die Idee, den Angolanern ein Referenzkrankenhaus zur Verfügung zu stellen, differenziert und ausgestattet mit moderner Technologie und hoher Präzision in der Diagnose und Behandlung von Krankheiten hoher Komplexität“, heißt es in dem Dokument.",
+      "reference": "Dieser betont, dass die Entscheidung des angolanischen Staatsoberhauptes auch das demografische Wachstum des Staates berücksichtigt, das eine „riesige Nachfrage“ nach qualitativ hohen Gesundheitsleistungen in den verschiedensten Bereichen bewirkte.",
+      "reference context": "In einer Meldung teilte das Pressebüro des Präsidenten der Republik mit, dass diese Maßnahme darauf abzielt, das Prinzip der Regierung des Baus und der Erweiterung des Krankenhausnetzes umzusetzen, um bessere medizinische Versorgung und Medikamente für die Bevölkerung zu garantieren. „In diesem spezifischen Fall, ist der Plan den Angolanern, ein Krankenhaus zur Referenz zur Verfügung zu stellen, differenziert und ausgestattet mit moderner Technologie und hoher Präzision in der Diagnose und Behandlung von hoch komplexen Krankheiten,“ so der Bericht.",
+      "source": "It stresses that the decision of the Angolan Head of State also takes into account the demographic growth of the country, which has motivated a \"huge demand\" for quality health services in the most diverse specialties.",
+      "source context": "In a note, the Press Office of the President of the Republic informs that the measure aims to materialize the Government principle of construction and expansion of the network of public hospitals to ensure better medical care and medication to the population. \"In this specific case, the idea is to make available to Angolans a reference hospital, differentiated and equipped with modern technology and high precision in the diagnosis and treatment of diseases of high complexity,\" the document reads."
+   },
+   {
+      "wrong translation": "Er sagte, dass der Schritt „die Reisepläne von Tausenden von Briten ins Chaos stürzt“.",
+      "correct translation": "Sie sagte, dass der Schritt „die Reisepläne von Tausenden von Briten ins Chaos stürzt“.",
+      "context": "Aber nach dem Druck der Luftfahrt- und Reiseindustrie veröffentlichten die Regierung und die dezentralen Verwaltungen Listen von Ländern, die von den Regeln ausgenommen sind. British Airways äußerte sich „enttäuscht“ über die jüngsten Änderungen der Reisehinweise und -regeln der Regierung, obwohl die Fluggesellschaft sagte, dass ihre Flüge weiterhin durchgeführt würden.",
+      "reference": "Sie sagte, dass die Maßnahme „Tausende von britischen Reiseplänen ins Chaos stürzt“.",
+      "reference context": "Aber nachdem die Flug- und Reiseindustrie Druck machten, veröffentlichten die Regierung und Verwaltungen eine Liste mit Ländern die von den Regeln ausgenommen sind. British Airways sagte, dass sie enttäuscht sind über die neuesten Änderungen an den Reiseempfehlungen und Regeln, wobei sie jedoch sagten, dass ihre Flüge weiterhin stattfinden werden.",
+      "source": "It said the move was \"throwing thousands of Britons' travel plans into chaos.\"",
+      "source context": "But after pressure from the aviation and travel industries, the government and devolved administrations published lists of countries exempt from the rules. British Airways said it was \"disappointed\" about the latest changes to the government's travel advice and rules, although the airline said its flights were continuing to operate."
+   },
+   {
+      "wrong translation": "UC Davis-Professor Geoff Schladow sagte, er sei ein „wichtiger Indikator dafür, wie gesund der See ist“.",
+      "correct translation": "UC Davis-Professor Geoff Schladow sagte, es sei ein „wichtiger Indikator dafür, wie gesund der See ist“.",
+      "context": "\"Bierdosen, Limodosen, Konservendosen von aus alten Zeiten.“ Wissenschaftler überwachen jedes Jahr die Klarheit des Lake Tahoe, indem sie eine weiße Scheibe fallen lassen und dann messen, wie weit unten sie diese sehen können.",
+      "reference": "Geoff Schladow, Professor an der Universität im kalifornischen Davis, sagt: „Es handelt sich um einen wichtigen Hinweis zum Gesundheitszustand des Sees.“",
+      "reference context": "„Bierdosen, Getränkedosen, Dosenöffner aus alten Tagen.“ Wissenschaftler beobachten die Klarheit des Lake Tahoe jährlich, indem Sie eine weiße Scheibe hineinwerfen und messen, wie weit sie diese mit dem Blick verfolgen können.",
+      "source": "UC Davis professor Geoff Schladow said it's an \"important indicator of how healthy the lake is.\"",
+      "source context": "\"Beer cans, soda cans, church key cans from the old days.\" Scientists monitor the clarity of Lake Tahoe every year by dropping a white disc, then measuring how far down they can see it."
+   },
+   {
+      "wrong translation": "„Wahrscheinlich hat sie das Ziel verfehlt, dass all die Leute, die uns anrufen, in der Erwartung anrufen, dass sie eine sehr billige Finanzierung bekommen können, anstatt dass die Regierung 50 Prozent des Kredits unterstützt“, sagte er.",
+      "correct translation": "„Wahrscheinlich hat es das Ziel verfehlt, dass all die Leute, die uns anrufen, in der Erwartung anrufen, dass sie eine sehr billige Finanzierung bekommen können, anstatt dass die Regierung 50 Prozent des Kredits unterstützt“, sagte er.",
+      "context": "Der Kleinunternehmersektor, der von den großen Banken oft unterversorgt ist, hat sich zunehmend an Online-Kreditgeber gewandt, um seinen Finanzierungsbedarf zu decken. Mr. Callaghan sagte jedoch, dass Online-Kreditgeber im Vergleich zu den großen Banken benachteiligt seien, da sie keinen Zugang zu denselben günstigen Finanzierungsmöglichkeiten hätten, und warnte, dass das KMU-Bürgschaftsprogramm deshalb nicht an Zugkraft gewinne.",
+      "reference": "Er sagte: „Ich glaube, sie hat vermutlich überall dort ihr Ziel verfehlt, wo Leute uns in der Erwartung anrufen, dass Sie anstatt der staatlichen Unterstützung von 50 Prozent des Darlehens eine sehr billige Finanzierung erhalten können.“",
+      "reference context": "Die kleineren Wirtschaftsbereiche, die von den großen Banken oft unzureichend bedient werden, wenden sich vermehrt an Online-Kreditgeber, um an Finanzierungen zu gelangen. Herr Callaghan stellte jedoch fest, dass Online-Kreditgeber im Vergleich zu den großen Banken im Nachteil seien, weil sie keinen Zugang zu den gleichen günstigen Finanzierungen haben und warnte, dass die Garantiemaßnahme für Klein- und Mittelunternehmen deswegen nicht greife.",
+      "source": "\"I think it has probably missed the mark where all the people who call us, call in the expectation they can get very cheap funding rather than the government backing 50 per cent of the loan,\" he said.",
+      "source context": "The small business sector, often under-served by the big banks, has increasingly turned to online lenders to meet its funding needs. However, Mr Callaghan said online lenders were disadvantaged compared to the big banks because they did not have access to the same lower priced funding and warned as a result the SME guarantee scheme was not gaining traction."
+   },
+   {
+      "wrong translation": "Er hat dasselbe in Madhya Pradesh getan, sagte der Kongress.",
+      "correct translation": "Sie hat dasselbe in Madhya Pradesh getan, sagte der Kongress.",
+      "context": "Während die Partei sagte, dass ein Protest außerhalb des Rashtrapati Bhavan, der offiziellen Residenz von Präsident Ram Nath Kovind, stattfinden wird. In dem Video beschuldigt der Kongress die BJP, „die Verfassung zu zerreißen und die Demokratie zu zerstören“, während das ganze Land gegen das Coronavirus kämpft.",
+      "reference": "Sie habe das gleiche auch in Madhya Pradesh gemacht, sagte die Kongresspartei weiter.",
+      "reference context": "Die Partei erklärte, dass eine Protestveranstaltung vor dem Rashtrapati Bhavan stattfinden werde, dem offiziellen Amtssitz von Präsident Ram Nath Kovind. In dem Video beschuldigt die Kongresspartei BJP, „die Verfassung zu zerreißen und die Demokratie zu zerstören“, während das Land gegen den Coronavirus ankämpft.",
+      "source": "It has done the same in Madhya Pradesh, the Congress said.",
+      "source context": "While the party said a protest will be held outside the Rashtrapati Bhavan, the official residence of President Ram Nath Kovind. In the video, the Congress has accused the BJP of \"Ripping up the constitution and demolishing democracy\" while the whole country is fighting the coronavirus."
+   },
+   {
+      "wrong translation": "\"Sie ist immer noch aktiv und immer noch tödlich. Das Virus zu unterdrücken, seine Übertragung zu verhindern und die öffentliche Gesundheit zu schützen, ist unsere Priorität.“",
+      "correct translation": "\"Es ist immer noch aktiv und immer noch tödlich. Das Virus zu unterdrücken, seine Übertragung zu verhindern und die öffentliche Gesundheit zu schützen, ist unsere Priorität.“",
+      "context": "„Aber die neuesten Daten geben eindeutig Anlass zur Sorge, diese Entscheidung zu kippen.“ \"Wir sind uns bewusst, dass dies enttäuschend sein wird. Wir haben jedoch immer deutlich gemacht, dass wir die Pandemiesituation in allen Ländern genau beobachten und dass wir möglicherweise ein Land von der Liste der Orte, die von der Quarantänepflicht ausgenommen sind, streichen müssen, sollte das Virus ein Wiederaufleben zeigen.“",
+      "reference": "„Er ist weiterhin aktiv und weiterhin tödlich. Unsere Priorität ist es, die Verbreitung des Virus einzudämmen und die öffentliche Gesundheit zu schützen.“",
+      "reference context": "Aber die neuesten Daten gaben uns Grund zur Besorgnis und zum Widerruf der Entscheidung. „Wir verstehen, dass das eine Enttäuschung ist. Wir haben jedoch immer deutlich klargestellt, dass wir die Entwicklung der Pandemie in allen Ländern sorgfältig beobachten und dass wir gegebenenfalls ein Land aus der Liste der Ausnahmen von der Quarantänepflicht streichen müssen, sollte die Verbreitung des Virus wieder zunehmen.“",
+      "source": "\"It is still active and it is still deadly. Suppressing the virus, preventing it from being transmitted and protecting public health is our priority.\"",
+      "source context": "But clearly the latest data has given us cause for concern to overturn that decision. \"We appreciate that this will be disappointing. However, we have always been clear we are closely monitoring the pandemic situation in all countries and that we may require to remove a country from the list of places exempt from quarantine requirements should the virus show a resurgence.\""
+   },
+   {
+      "wrong translation": "Sie sagte: „Wir wissen, dass er in der ganzen Welt bekannt ist, und es ist fantastisch, dass die Arbeiten für ihre Renovierung bald beginnen werden.“",
+      "correct translation": "Sie sagte: „Wir wissen, dass sie in der ganzen Welt bekannt ist, und es ist fantastisch, dass die Arbeiten für ihre Renovierung bald beginnen werden.“",
+      "context": "„Die Tatsache, dass die Arbeiten für die 10 Millionen Pfund teure Renovierung in Kürze beginnen werden, ist jedoch das beste Geburtstagsgeschenk, das möglich ist, und wird sicherstellen, dass auch kommende Generationen die Brücke in ihrer ganzen Pracht genießen können.“ Die Direktorin von Ice Scotland, Hannah Smith, beschrieb die Brücke als einen „oft übersehenen“ Teil des schottischen Ingenieurserbes.",
+      "reference": "Sie sagte: „Wir wissen, dass es weltbekannt ist und es ist fantastisch, dass die Renovierungsarbeiten in Kürze beginnen wird.“",
+      "reference context": "„Die Tatsache, dass die Arbeiten für die 10 Millionen Pfund Renovierung in Kürze beginnen werden, ist das beste Geburtstagsgeschenk das es gibt, und wird es künftigen Generationen ermöglichen die Brücke in all ihrer Schönheit zu genießen.“ Ice Scotland Direktorin Hannah Smith beschrieb die Brücke als ein „oft übersehenes“ Teil des schottischen Ingenieurserbes.",
+      "source": "She said: \"We know it is renowned the world over and it is fantastic that work will shortly commence on its renovation.\"",
+      "source context": "\"However, the fact that work is shortly going to begin on the £10m renovation is the best birthday present possible and will ensure generations to come will be able to enjoy the bridge in all its splendour.\" Ice Scotland director Hannah Smith described the bridge as an \"often-overlooked\" part of Scotland's engineering heritage."
+   },
+   {
+      "wrong translation": "Sie hört sich gelassen an ...",
+      "correct translation": "Es hört sich gelassen an ...",
+      "context": "Wenn ich Glück habe, sind wir aus London in unser Haus an der Küste auf der Isle of Wight geflohen. Wir beide werden zusammensitzen und schweigend über das Wasser schauen.",
+      "reference": "Das klingt nach Ruhe...",
+      "reference context": "Wenn ich Glück habe, sind wir aus London zu unserem Haus an der Küste der Isle of Wight geflohen. Wir zwei sitzen beieinander und blicken schweigend auf das Wasser hinaus.",
+      "source": "It sounds serene...",
+      "source context": "If I'm lucky, we'll have escaped London to our coastal house on the Isle of Wight. The two of us will sit together and look across the water in silence."
+   },
+   {
+      "wrong translation": "Es wird eine „forensische Analyse“ der Waffen der Beamten beinhalten.",
+      "correct translation": "Sie wird eine „forensische Analyse“ der Waffen der Beamten beinhalten.",
+      "context": "Die beiden Opfer wurden als Aden Abdi Madobe und Muhiyadin Adow Shibin identifiziert. Die kenianische Polizeiaufsichtsbehörde hat eine Untersuchung der Schießerei eingeleitet.",
+      "reference": "Diese wird forensische Analysen der Waffen der Polizisten beinhalten.",
+      "reference context": "Die zwei Opfer wurden als Aden Abdi Madobe und Muhiyadin Adow Shibin identifiziert. Die kenianische Polizeiaufsicht hat eine Untersuchung der Schießerei gestartet.",
+      "source": "It will include \"forensic analysis\" of the officers' guns.",
+      "source context": "The two victims have been named as Aden Abdi Madobe and Muhiyadin Adow Shibin. Kenya's police watchdog has launched an investigation into the shooting."
+   },
+   {
+      "wrong translation": "Es zielt auch darauf ab, Talibankämpfer anzulocken, die gegen das Abkommen mit den Vereinigten Staaten sind“, so der Bericht, der sich auf ein im Februar unterzeichnetes Friedensabkommen der USA mit den Taliban bezieht.",
+      "correct translation": "Er zielt auch darauf ab, Talibankämpfer anzulocken, die gegen das Abkommen mit den Vereinigten Staaten sind“, so der Bericht, der sich auf ein im Februar unterzeichnetes Friedensabkommen der USA mit den Taliban bezieht.",
+      "context": "In dem Bericht heißt es weiter, das Überwachungsteam habe Informationen erhalten, dass zwei hochrangige Befehlshaber des Islamischen Staates, Abu Qutaibah und Abu Hajar al-Iraqi, kürzlich aus dem Nahen Osten nach Afghanistan gekommen seien. „Obwohl er sich territorial zurückzieht, ist (der Islamische Staat) weiterhin in der Lage, hochkarätige Anschläge in verschiedenen Teilen des Landes, einschließlich Kabul, zu verüben.",
+      "reference": "Er hat auch zum Ziel Taliban-Kämpfer, welche sich dem Abkommen mit den USA widersetzen, anzuziehen, so im Bericht, der sich auf ein US-Friedensabkommen mit der Taliban im Februar, bezieht.",
+      "reference context": "Der Bericht besagte auch, dass das Überwachungsteam Informationen erhalten hat, dass zwei wichtige Anführer des Islamischen Staates, Abu Qutaibah und Abu Hajar al-Iraqi, kürzlich aus dem Nahen Osten kommend in Afghanistan angekommen seien. „Obwohl er sich geographisch zurückzieht, (der Islamische Staat) bleibt er fähig hochkarätige Angriffe auf verschiedene Teile des Landes durchzuführen, darunter auch Kabul.",
+      "source": "It also aims to attract Taliban fighters who oppose the agreement with the United States,\" the report said, referring to a U.S. peace deal signed with the Taliban in February.",
+      "source context": "The report also said the monitoring team had received information that two senior Islamic State commanders, Abu Qutaibah and Abu Hajar al-Iraqi, had recently arrived in Afghanistan from the Middle East. \"Although in territorial retreat, (the Islamic State) remains capable of carrying out high-profile attacks in various parts of the country, including Kabul."
+   },
+   {
+      "wrong translation": "Er fügte hinzu, dass nur Passagiere, die ein Zertifikat für einen solchen Test haben, ins Land gelassen werden. Sie muss in englischer Sprache ausgestellt sein und die drei Namen und Nummern des Reisepasses oder Personalausweises des Passagiers enthalten. Die Behörden in unserem südlichen Nachbarland akzeptieren keine Zertifikate, die diese Anforderungen nicht erfüllen",
+      "correct translation": "Sie fügten hinzu, dass nur Passagiere, die ein Zertifikat für einen solchen Test haben, ins Land gelassen werden. Es muss in englischer Sprache ausgestellt sein und die drei Namen und Nummern des Reisepasses oder Personalausweises des Passagiers enthalten. Die Behörden in unserem südlichen Nachbarland akzeptieren keine Zertifikate, die diese Anforderungen nicht erfüllen",
+      "context": "Obligatorische Heimquarantäne in Österreich, trotz negativem PCR-Test. Dies ist bereits für die Einreise nach Deutschland erforderlich. Für die nächsten 14 Tage wurde der Zugang nach Südrumänien ohne triftigen Grund verweigert. Und Griechenland hat die Maßnahmen entlang seiner Landgrenzen noch weiter verschärft. Ab Dienstag müssen Reisende, die mit dem Flugzeug von Bulgarien nach Griechenland reisen, den griechischen Grenzbehörden ein negatives Ergebnis eines PCR-Tests auf Coronaviren vorlegen, der bis zu 72 Stunden vor der Einreise in unser südliches Nachbarland durchgeführt wird, teilte das Außenministerium mit.",
+      "reference": "Es ergänzte, dass der Aufenthalt im Land ausschließlich Passagieren mit einem Nachweis eines solchen Tests gestattet ist. Dieser muss in englischer Sprache vorliegen und die drei Namen und Nummern des Passes oder Identitätsnachweises der jeweiligen Person aufweisen. Die griechischen Behörden werden keine Nachweise akzeptieren, die diese Anforderungen nicht erfüllen.",
+      "reference context": "In Österreich ist auch bei negativem PCR-Testergebnis eine häusliche Quarantäne vorgeschrieben. Das Gleiche gilt bereits in Deutschland. Für die kommenden 14 Tage wird die Einreise nach Südrumänien ohne Angabe von Gründen verweigert. Derweil wurden in Griechenland die Maßnahmen an den Landesgrenzen noch weiter verschärft. Laut Angaben des bulgarischen Außenministeriums müssen Flugpassagiere, die von Bulgarien nach Griechenland reisen möchten, den griechischen Grenzbehörden ab Dienstag ein negatives Ergebnis eines PCR-Tests auf das Coronavirus vorlegen, der zum Einreisezeitpunkt höchstens 72 Stunden alt sein darf.",
+      "source": "They added that only passengers who have a certificate for such a test will be allowed in the country. It must be issued in English and contain the three names and numbers of the passenger's passport or identity card. The authorities in our southern neighbor will not accept certificates that do not meet these requirements",
+      "source context": "Mandatory home quarantine in Austria, despite a negative PCR test. This is already required for those entering Germany. For the next 14 days, access to southern Romania was denied without good reason. And Greece has tightened measures even more along its land borders. From Tuesday, those traveling by plane from Bulgaria to Greece will have to present to the Greek border authorities a negative result from a PCR test for coronavirus, performed up to 72 hours before their entry into our southern neighbor, the Ministry of Foreign Affairs announced."
+   },
+   {
+      "wrong translation": "„Sie wird im Wesentlichen gut für Europa sein, weil sie einen leichteren Handel mit Waren ermöglicht, aber sehr hemmend für uns in der Frage der Dienstleistungen.“",
+      "correct translation": "„Es wird im Wesentlichen gut für Europa sein, weil er einen leichteren Handel mit Waren ermöglicht, aber sehr hemmend für uns in der Frage der Dienstleistungen.“",
+      "context": "Zuvor hatte Mr. Blair in dem Interview gesagt, dass Großbritannien und die EU noch vor Ende des Jahres eine Einigung über den Brexit erzielen könnten. Er sagte: „Sie könnten einen Deal an Land ziehen. Aber selbst der Deal, den wir an Land ziehen, wird schlecht sein.“",
+      "reference": "„Es wird im Wesentlichen für die EU gut sein, weil es den Warenhandel erleichtern wird, jedoch für uns im Hinblick auf Dienstleistungen sehr hemmend wirken.“",
+      "reference context": "Tony Blair hatte vorher im Interview gesagt, dass Großbritannien und die EU noch immer vor Ende des Jahres ein Abkommen zur Brexit treffen könnten. Er sagte: „Sie könnten ein Abkommen treffen. Aber selbst ein gemeinsames Abkommen wird nicht gut sein.“",
+      "source": "\"It's essentially going to be good for Europe because it will allow easier trade in goods but very inhibiting for us on the issue of services.\"",
+      "source context": "Earlier in the interview, Mr Blair said that the UK and EU could still land a deal on Brexit before the end of the year. He said: \"They could land a deal. But even the deal we land is going to be bad.\""
+   },
+   {
+      "wrong translation": "Der Labour-Abgeordnete Jess Phillips sagte am Samstag: „Ich habe gerade das ganze Wiley-Zeug gelesen. Wie konnte @Twitter nur solch schreienden Antisemitismus und Hass stehen lassen? Darin sind alle gefährlichen Klischees enthalten, Juden bekommen, was du nicht bekommst, sie haben die Kontrolle, sie halten sich für etwas Besseres... Das ist wirklich gefährlich. Er müsste doch sicher gelöscht werden.“",
+      "correct translation": "Der Labour-Abgeordnete Jess Phillips sagte am Samstag: „Ich habe gerade das ganze Wiley-Zeug gelesen. Wie konnte @Twitter nur solch schreienden Antisemitismus und Hass stehen lassen? Darin sind alle gefährlichen Klischees enthalten, Juden bekommen, was du nicht bekommst, sie haben die Kontrolle, sie halten sich für etwas Besseres... Das ist wirklich gefährlich. Es müsste doch sicher gelöscht werden.“",
+      "context": "In einem Video auf Instagram schien Wiley jedoch zu sagen, dass er es war, der die Beziehungen mit seinem Management abgebrochen hatte. Andere Abgeordnete kritisierten Twitter, weil zugelassen wurde, dass die Tweets sichtbar blieben.",
+      "reference": "Die Labour-Abgeordnete Jess Phillips sagte am Samstag: „Gerade die Wiley-Sache gesehen. Warum um Himmels Willen lässt @Twitter so unverhohlenen Antisemitismus und Hass online? All die gefährlichen Lügen sind vertreten, wie dass Juden mehr als du bekommen, dass sie alles kontrollieren, sich für etwas Besseres halten ... Das ist gefährlich. Es sollte unbedingt entfernt werden.“",
+      "reference context": "In einem Video auf Instagram hörte es sich jedoch an, als sei es Wiley gewesen, der sich von seinem Management trennte. Weitere Parlamentsmitglieder kritisierten Twitter dafür, dass die Tweets so lange sichtbar waren.",
+      "source": "Labour MP Jess Phillips said on Saturday: \"Just seen all the Wiley stuff. Why on earth have @Twitter left up such blatant antisemitism and hatred? It hits all the dangerous beats, Jews get things you don't get, they are in control, they think their better... This is dangerous stuff. Surely it should come down.\"",
+      "source context": "However, in a video on Instagram, Wiley appeared to say it was him who had cut ties with his management. Other MPs criticised Twitter for allowing the tweets to remain visible."
+   },
+   {
+      "wrong translation": "Er wurde 1905 vor dem alten Gerichtsgebäude von Princess Anne County aufgestellt, an dem Ort, an dem früher Sklavenauktionen stattfanden.",
+      "correct translation": "Das Denkmal wurde 1905 vor dem alten Gerichtsgebäude von Princess Anne County aufgestellt, an dem Ort, an dem früher Sklavenauktionen stattfanden.",
+      "context": "VIRGINIA BEACH, VA. -- Die Stadt Virginia Beach hat am Samstag ein 115 Jahre altes Konföderierten-Denkmal aus dem öffentlichen Raum abmontiert, weniger als zwei Tage nachdem der Stadtrat dies einstimmig beschlossen hatte. Wie Medien berichteten, bauten Arbeiter das 8,2 Meter (27 Fuß) hohe Denkmal am Samstagmorgen ab.",
+      "reference": "Es war 1905 errichtet und vor dem ehemaligen Bezirksgerichtsgebäude Princess Anne aufgestellt worden, am selben Ort, an dem einst Sklavenversteigerungen abgehalten worden waren.",
+      "reference context": "VIRGINIA BEACH, Virginia. -- Die Stadt Virginia Beach entfernte am Samstag ein 115 Jahre altes Konföderierten-Denkmal von öffentlichem Grund - nicht einmal zwei Tage nachdem der Stadtrat dies einstimmig beschlossen hatte. Medienberichten zufolge entfernten Arbeiter das 27 Fuß (8,2 m) hohe Denkmal am Samstagmorgen.",
+      "source": "It was installed in 1905 and stood outside the old Princess Anne County courthouse, in the same place that slave auctions were once held.",
+      "source context": "VIRGINIA BEACH, Va. -- The city of Virginia Beach removed a 115-year-old Confederate monument from public grounds on Saturday, less than two days after the City Council voted unanimously to do so. Workers took down the 27-foot (8.2-meter) tall monument on Saturday morning, media outlets reported."
+   },
+   {
+      "wrong translation": "Sie betont, dass die Entscheidung des angolanischen Staatschefs auch dem demografischen Wachstum des Landes gerecht wird, das eine „enorme Nachfrage“ nach qualitativ hochwertigen Gesundheitsdiensten in den verschiedensten Fachbereichen ausgelöst hat.",
+      "correct translation": "Es betont, dass die Entscheidung des angolanischen Staatschefs auch dem demografischen Wachstum des Landes gerecht wird, das eine „enorme Nachfrage“ nach qualitativ hochwertigen Gesundheitsdiensten in den verschiedensten Fachbereichen ausgelöst hat.",
+      "context": "In einer Mitteilung der Pressestelle des Präsidenten der Republik heißt es, die Maßnahme ziele darauf ab, den Regierungsgrundsatz des Aufbaus und der Erweiterung des Netzes öffentlicher Krankenhäuser zu erfüllen, um der Bevölkerung bessere medizinische Versorgung und Medikamente zu gewährleisten. „In diesem speziellen Fall geht es darum, den Angolanern ein Referenz-Krankenhaus zur Verfügung zu stellen, das differenziert und mit moderner Technologie und hoher Präzision in der Diagnose und Behandlung von Krankheiten hoher Komplexität ausgestattet ist“, heißt es in dem Dokument.",
+      "reference": "Es wird betont, dass die Entscheidung des angolanischen Staatsoberhauptes auch das demografische Wachstum des Landes mit einbezieht, das eine \"hohe Nachfrage\" an qualitativ hochwertigen Gesundheitsdienstleistungen in vielen verschiedenen Fachrichtungen mit sich bringt.",
+      "reference context": "In einer Anmerkung informiert das Pressebüro des Präsidenten der Republik, dass diese Maßnahme darauf abziele, das Vorhaben der Regierung, das Netzwerk der öffentlichen Krankenhäuser auszubauen und zu erweitern, in die Tat umzusetzen und so eine bessere medizinische Versorgung und Arzneimittelversorgung zu gewährleisten. In dem Dokument steht zu lesen: \"In diesem speziellen Fall besteht der Plan darin, den Angolanern ein Referenzklinikum zugänglich zu machen, das viele Optionen zu bieten hat und mit der modernsten Technologie ausgestattet ist und hochpräzise Diagnosen und die Behandlung hochkomplexer Krankheiten im Programm hat\".",
+      "source": "It stresses that the decision of the Angolan Head of State also takes into account the demographic growth of the country, which has motivated a \"huge demand\" for quality health services in the most diverse specialties.",
+      "source context": "In a note, the Press Office of the President of the Republic informs that the measure aims to materialize the Government principle of construction and expansion of the network of public hospitals to ensure better medical care and medication to the population. \"In this specific case, the idea is to make available to Angolans a reference hospital, differentiated and equipped with modern technology and high precision in the diagnosis and treatment of diseases of high complexity,\" the document reads."
+   },
+   {
+      "wrong translation": "Er teilte mit, dass dieser Schritt „die Reisepläne tausender Briten ins Chaos stürzt“",
+      "correct translation": "Die Fluggesellschaft teilte mit, dass dieser Schritt „die Reisepläne tausender Briten ins Chaos stürzt“",
+      "context": "Auf Druck der Luftfahrt- und Reiseindustrie haben die Regierung und die Regionalverwaltungen allerdings Listen von Ländern veröffentlicht, die von den Regelungen ausgenommen sind. British Airways erklärte ihre „Enttäuschung“ über die jüngsten Änderungen der Reisehinweise und -regelungen der Regierung, wobei die Fluggesellschaft erklärte, dass ihre Flüge weiterhin durchgeführt würden.",
+      "reference": "Sie sagte, dieser Schachzug würde \"die Reisepläne vieler Tausender Briten in Chaos stürzen\".",
+      "reference context": "Auf Druck seitens der Fluggesellschaften und der Tourismusindustrie, haben die Regierung und dezentrale Behörden eine Liste mit von den Vorschriften ausgenommenen Ländern veröffentlicht. British Airways gab an, es sei \"enttäuscht\" über die neuesten Änderungen an den Reisehinweisen und Reisevorschriften der Regierung, trotzdem die Fluggesellschaft ankündigte, die Flüge würden planmäßig abheben.",
+      "source": "It said the move was \"throwing thousands of Britons' travel plans into chaos.\"",
+      "source context": "But after pressure from the aviation and travel industries, the government and devolved administrations published lists of countries exempt from the rules. British Airways said it was \"disappointed\" about the latest changes to the government's travel advice and rules, although the airline said its flights were continuing to operate."
+   },
+   {
+      "wrong translation": "Er habe das Gleiche in Madhya Pradesh getan, sagte die Kongresspartei.",
+      "correct translation": "Sie haben das Gleiche in Madhya Pradesh getan, sagte die Kongresspartei.",
+      "context": "Die Partei kündigte eine Protestaktion vor dem Rashtrapati Bhavan, dem Amtssitz von Präsident Ram Nath Kovind, an. In dem Video beschuldigt die Kongresspartei die BJP, „die Verfassung zu zerreißen und die Demokratie zu zerstören“, während das ganze Land gegen das Coronavirus kämpft.",
+      "reference": "Seitens der Kongresspartei hieß es, dass sie das gleiche in Madhya Pradesh getan habe.",
+      "reference context": "Während es seitens der Partei hieß, dass eine Protestkundgebung vor Rashtrapati Bhavan, dem offiziellen Wohnsitz von Präsident Ram Nath Kovind abgehalten werde. In dem Video beschuldigte die Kongresspartei die BJP „die Verfassung mit Füßen zu treten und den Hammer an die Demokratie zu legen“, während das ganze Land gegen den Coronavirus kämpfe.",
+      "source": "It has done the same in Madhya Pradesh, the Congress said.",
+      "source context": "While the party said a protest will be held outside the Rashtrapati Bhavan, the official residence of President Ram Nath Kovind. In the video, the Congress has accused the BJP of \"Ripping up the constitution and demolishing democracy\" while the whole country is fighting the coronavirus."
+   },
+   {
+      "wrong translation": "„Sie ist immer noch aktiv und es ist immer noch tödlich. Es ist unsere Priorität, das Virus einzudämmen, seine Übertragung zu verhindern und die öffentliche Gesundheit zu schützen.",
+      "correct translation": "„Es ist immer noch aktiv und es ist immer noch tödlich. Es ist unsere Priorität, das Virus einzudämmen, seine Übertragung zu verhindern und die öffentliche Gesundheit zu schützen.",
+      "context": "Die neuesten Daten haben uns jedoch eindeutig genug Grund zur Besorgnis gegeben, um diese Entscheidung zurückzunehmen. „Uns ist klar dass dies enttäuschend sein wird. Wir haben jedoch immer klargestellt, dass wir die Situation der Pandemie in allen Ländern genau beobachten, und dass es nötig sein kann, ein Land von der Liste der von der Quarantäne befreiten Länder zu entfernen, wenn das Virus dort einen erneuten Anstieg verzeichnet.“",
+      "reference": "„Er ist immer noch aktiv und tödlich. Den Virus zu unterdrücken, indem wir seine Übertragung verhindern und das Gesundheitswesen schützen, hat für uns Priorität.“",
+      "reference context": "Aber die aktuellen Daten machen uns eindeutig Sorgen und deshalb haben wir die Entscheidung revidiert. „Uns ist klar, dass dies enttäuschend ist. Wir haben aber immer klar gesagt, dass wir die Pandemiesituation in allen Ländern genau beobachten werden und wir möglicherweise ein Land von der Liste der Orte streichen müssen, die von Quarantäneauflagen befreit sind, wenn der Virus wieder auftaucht.“",
+      "source": "\"It is still active and it is still deadly. Suppressing the virus, preventing it from being transmitted and protecting public health is our priority.\"",
+      "source context": "But clearly the latest data has given us cause for concern to overturn that decision. \"We appreciate that this will be disappointing. However, we have always been clear we are closely monitoring the pandemic situation in all countries and that we may require to remove a country from the list of places exempt from quarantine requirements should the virus show a resurgence.\""
+   },
+   {
+      "wrong translation": "Außerdem zielt es darauf ab, Taliban-Kämpfer anzuwerben, die das Abkommen mit den Vereinigten Staaten ablehnen“, heißt es in dem Bericht, der sich auf ein im Februar unterzeichnetes Friedensabkommen der USA mit den Taliban bezieht.",
+      "correct translation": "Außerdem zielt er darauf ab, Taliban-Kämpfer anzuwerben, die das Abkommen mit den Vereinigten Staaten ablehnen“, heißt es in dem Bericht, der sich auf ein im Februar unterzeichnetes Friedensabkommen der USA mit den Taliban bezieht.",
+      "context": "In dem Bericht heißt es weiter, das Überwachungsteam habe Informationen erhalten, wonach zwei hochrangige Befehlshaber des Islamischen Staates, Abu Qutaibah und Abu Hajar al-Iraqi, kürzlich aus dem Nahen Osten nach Afghanistan angekommen seien. „Obwohl sich der Islamische Staat auf dem Rückzug befindet, ist er weiterhin in der Lage, in verschiedenen Teilen des Landes, darunter auch in Kabul, schwere Anschläge zu verüben.",
+      "reference": "Er will auch Talibankämpfer anwerben, die gegen ein Abkommen mit den Vereinigten Staaten sind“, steht in dem Bericht unter Bezugnahme auf das im Februar unterzeichnete Friedensabkommen zwischen den USA und den Taliban.",
+      "reference context": "In dem Bericht steht auch, dass die Überwachungsabteilung Informationen erhalten habe, demgemäß vor kurzem zwei erfahrene Kommandanten des Islamischen Staates, Abu Qutaibah und Abu Hajar al-Iraqi aus dem Nahen Osten nach Afghanistan gekommen seien. „Trotz seines Rückzugs ist (der Islamische Staat) weiter in der Lage, sensible Ziele in verschiedenen Landesteilen anzugreifen, auch in Kabul.",
+      "source": "It also aims to attract Taliban fighters who oppose the agreement with the United States,\" the report said, referring to a U.S. peace deal signed with the Taliban in February.",
+      "source context": "The report also said the monitoring team had received information that two senior Islamic State commanders, Abu Qutaibah and Abu Hajar al-Iraqi, had recently arrived in Afghanistan from the Middle East. \"Although in territorial retreat, (the Islamic State) remains capable of carrying out high-profile attacks in various parts of the country, including Kabul."
+   },
+   {
+      "wrong translation": "Er fügte hinzu, dass nur Passagiere mit einem Zertifikat für solch einen Test in das Land gelassen werden. Dieses muss in englischer Sprache ausgestellt sein und die drei Namen sowie die Nummer des Ausweises oder Reisepasses des Passagiers enthalten. Die Behörden in unserem südlichen Nachbarland werden keine Zertifikate akzeptieren, die diese Anforderungen nicht erfüllen.",
+      "correct translation": "Es fügte hinzu, dass nur Passagiere mit einem Zertifikat für solch einen Test in das Land gelassen werden. Dieses muss in englischer Sprache ausgestellt sein und die drei Namen sowie die Nummer des Ausweises oder Reisepasses des Passagiers enthalten. Die Behörden in unserem südlichen Nachbarland werden keine Zertifikate akzeptieren, die diese Anforderungen nicht erfüllen.",
+      "context": "Verpflichtende Hausquarantäne in Österreich, trotz eines negativen PCR-Tests. Diese Regelung gilt bereits für die Einreise nach Deutschland. In den folgenden 14 Tagen wurde der Zugang zu Südrumänien ohne triftigen Grund verweigert. Und Griechenland hat die Maßnahmen an seinen Landesgrenzen noch weiter verschärft. Ab Dienstag müssen Reisende, die mit dem Flugzeug aus Rumänien nach Griechenland einreisen, den griechischen Grenzbehörden einen negativen PCR-Tests für den Coronavirus vorlegen, der höchstens 72 Stunden vor der Einreise in unser südliches Nachbarland durchgeführt wird, teilte das Außenministerium mit.",
+      "reference": "Weiter hieß es, dass nur Passagiere, die ein Zertifikat für diesen Test hätten, einreisen dürften. Dieses muss in englischer Sprache ausgestellt sein und die drei Namen und Nummern des Reisepasses oder Personalausweises des Passagiers enthalten. Die Behörden unseres südlichen Nachbarlandes akzeptieren keine Zertifikate, die diese Anforderungen nicht erfüllen",
+      "reference context": "In Österreich ist Quarantäne Zuhause vorgeschrieben, trotz negativem PCR-Test. Dies ist bereits bei der Einreise in Deutschland erforderlich. Für die nächsten 14 Tage wird die Einreise in Südrumänien ohne guten Grund verweigert. Und Griechenland hat die Maßnahmen an der Landgrenze sogar noch weiter verschärft. Ab Donnerstag müssten Flugreisende von Bulgarien nach Griechenland griechischen Grenzbeamten einen PCR-Test mit negativem Ergebnis für den Coronavirus vorweisen, der längstens 72 Stunden vor der Einreise bei unserem südlichen Nachbarn gemacht werden müsse, gab das Außenministerium bekannt.",
+      "source": "They added that only passengers who have a certificate for such a test will be allowed in the country. It must be issued in English and contain the three names and numbers of the passenger's passport or identity card. The authorities in our southern neighbor will not accept certificates that do not meet these requirements",
+      "source context": "Mandatory home quarantine in Austria, despite a negative PCR test. This is already required for those entering Germany. For the next 14 days, access to southern Romania was denied without good reason. And Greece has tightened measures even more along its land borders. From Tuesday, those traveling by plane from Bulgaria to Greece will have to present to the Greek border authorities a negative result from a PCR test for coronavirus, performed up to 72 hours before their entry into our southern neighbor, the Ministry of Foreign Affairs announced."
+   },
+   {
+      "wrong translation": "Außerdem verstößt sie gegen den Grundsatz der Gewaltenteilung, demzufolge die Gerichte die Maßnahmen der Exekutive kontrollieren.",
+      "correct translation": "Außerdem verstößt es gegen den Grundsatz der Gewaltenteilung, demzufolge die Gerichte die Maßnahmen der Exekutive kontrollieren.",
+      "context": "Mit dem neuen Gesetz wird die Entscheidung über die Ausstellung eines Verhörbefehls von einem Richter auf den Generalstaatsanwalt übertragen. Wie der Generalinspektor für Nachrichtendienste und Sicherheit betonte, weicht dies „von der Tendenz ab, dass in anderen Five-Eyes-Ländern verstärkt externe Genehmigungen verlangt werden“.",
+      "reference": "Es verstößt auch gegen den Grundsatz der Gewaltenteilung, wonach die Gerichte die Maßnahmen der Exekutive überprüfen.",
+      "reference context": "Mit dem neuen Gesetzentwurf wird die Entscheidung über die Ausstellung eines Vernehmungsbefehls vom Richter auf den Generalstaatsanwalt übertragen. Wie der Generalinspekteur für Nachrichtendienste und Sicherheit feststellte, \"weicht\" dies \"vom Trend zu erhöhten Anforderungen für externe Genehmigungen in anderen Five-Eyes-Rechtsordnungen ab.\"",
+      "source": "It also breaches the separation of powers principle that courts scrutinise the actions of executive government.",
+      "source context": "The new bill transfers the decision to issue a questioning warrant from a judge to the Attorney-General. As pointed out by the Inspector-General of Intelligence and Security, this \"departs from the trend for increased requirements for external authorisation in other Five Eyes jurisdictions.\""
+   },
+   {
+      "wrong translation": "Der Labour-Abgeordnete Jess Phillips sagte am Samstag: „Ich habe gerade das ganze Wiley-Zeug gelesen. Wie konnte @Twitter nur solch schreienden Antisemitismus und Hass stehen lassen? Darin sind alle gefährlichen Klischees enthalten, Juden bekommen, was du nicht bekommst, sie haben die Kontrolle, sie halten sich für etwas Besseres... Das ist wirklich gefährlich. Sie müsste doch sicher gelöscht werden.“",
+      "correct translation": "Der Labour-Abgeordnete Jess Phillips sagte am Samstag: „Ich habe gerade das ganze Wiley-Zeug gelesen. Wie konnte @Twitter nur solch schreienden Antisemitismus und Hass stehen lassen? Darin sind alle gefährlichen Klischees enthalten, Juden bekommen, was du nicht bekommst, sie haben die Kontrolle, sie halten sich für etwas Besseres... Das ist wirklich gefährlich. Es müsste doch sicher gelöscht werden.“",
+      "context": "In einem Video auf Instagram schien Wiley jedoch zu sagen, dass er es war, der die Beziehungen mit seinem Management abgebrochen hatte. Andere Abgeordnete kritisierten Twitter, weil zugelassen wurde, dass die Tweets sichtbar blieben.",
+      "reference": "Die Labour-Abgeordnete Jess Phillips sagte am Samstag: \"Habe gerade das ganze Wiley-Zeug gesehen. Warum in aller Welt hat @Twitter solch offenkundigen Antisemitismus und Hass veröffentlicht? Es trifft alle gefährlichen Töne, Juden bekommen Dinge, die du nicht bekommst, sie haben die Kontrolle, sie denken, sie seien besser... Das ist gefährliches Zeug. Sicher sollte es gesperrt werden.\"",
+      "reference context": "In einem Video auf Instagram schien Wiley jedoch zu sagen, dass er es war, der die Verbindung zu seinem Management abgebrochen hat. Andere Abgeordnete kritisierten Twitter dafür, dass die Tweets sichtbar blieben.",
+      "source": "Labour MP Jess Phillips said on Saturday: \"Just seen all the Wiley stuff. Why on earth have @Twitter left up such blatant antisemitism and hatred? It hits all the dangerous beats, Jews get things you don't get, they are in control, they think their better... This is dangerous stuff. Surely it should come down.\"",
+      "source context": "However, in a video on Instagram, Wiley appeared to say it was him who had cut ties with his management. Other MPs criticised Twitter for allowing the tweets to remain visible."
+   },
+   {
+      "wrong translation": "Zu diesem Zeitpunkt wurde er zur Zahlung von ca. 1,9 Milliarden Dollar als Strafzahlungen und zur Verhinderung eines vergleichbaren Fehlverhaltens verurteilt.",
+      "correct translation": "Zu diesem Zeitpunkt wurde sie zur Zahlung von ca. 1,9 Milliarden Dollar als Strafzahlungen und zur Verhinderung eines vergleichbaren Fehlverhaltens verurteilt.",
+      "context": "Laut neuen Beweisen, die von der Global Times zitiert werden, war HSBC die Beziehung des chinesischen Unternehmens mit Skycom genau bekannt. Die Bank habe sich 2012 mit der US-Regierung „zusammengetan“, um einer strengeren Strafe zu entgehen, als die Bank Geldwäsche und Nichteinhaltung von Sanktionen, einschließlich Einschränkungen bezüglich des Iran, eingestehen musste.",
+      "reference": "Zu diesem Zeitpunkt musste die Bank etwa 1,9 Milliarden US-Dollar Strafe zahlen und wurde ermahnt, in Zukunft ähnliches Fehlverhalten zu unterlassen.",
+      "reference context": "Die Global Times hat neue Beweise vorgebracht, die belegen, dass die HSBC sehr wohl von der Verbindung zwischen dem chinesischen Unternehmen und Skycom wusste. Die Bank soll Berichten zufolge darauf aus gewesen sein, mit der US-Regierung zu kooperieren, um 2012 einer schwereren Strafe zu entgehen, als die Bank zugeben musste, dass sie Geld verliehen und gegen Sanktionen verstoßen hat, auch gegen die Sanktionen gegen den Iran.",
+      "source": "It was ordered at the time to pay around $1.9 billion in penalties and to prevent any similar misconduct.",
+      "source context": "According new evidence cited by the Global Times, HSBC was well aware of the Chinese company's relationship with Skycom. The bank reportedly opted to \"collude\" with the US government to escape more severe punishment in 2012, when the bank had to admit to money laundering and sanctions violations, including restrictions on Iran."
+   },
+   {
+      "wrong translation": "Professor Geoff Schladow der UC Davis sagte, er sei „ein wichtiger Indikator für die Gesundheit des Sees.“",
+      "correct translation": "Professor Geoff Schladow der UC Davis sagte, es sei „ein wichtiger Indikator für die Gesundheit des Sees.“",
+      "context": "„Bierdosen, Getränkedosen, Konservendosen aus den alten Zeiten.“ Die Klarheit des Lake Tahoe wird jährlich von Wissenschaftlern überwacht, indem eine weiße Scheibe heruntergelassen wird und dann gemessen wird, bis in welche Tiefe man diese sehen kann.",
+      "reference": "Geoff Schladow, Professor der University of California Davis, sagte, das sei \"ein wichtiger Indikator dafür, wie gesund der See ist\".",
+      "reference context": "\"Bierdosen, Limodosen, Dosenöffner aus vergangenen Zeiten.\" Wissenschaftler messen die Klarheit des Lake Tahoe jährlich, indem sie eine weiße Scheibe ins Wasser fallen lassen und dann messen, wie weit unten sie sichtbar ist.",
+      "source": "UC Davis professor Geoff Schladow said it's an \"important indicator of how healthy the lake is.\"",
+      "source context": "\"Beer cans, soda cans, church key cans from the old days.\" Scientists monitor the clarity of Lake Tahoe every year by dropping a white disc, then measuring how far down they can see it."
+   },
+   {
+      "wrong translation": "„Meiner Meinung nach hat sie insofern das Ziel verfehlt, dass die Menschen, die uns anrufen, die Erwartung haben, dass sie eine sehr günstige Finanzierung erhalten könnten und nicht eine 50%-ige Absicherung des Kredits durch die Regierung“, sagte er.",
+      "correct translation": "„Meiner Meinung nach hat es insofern das Ziel verfehlt, dass die Menschen, die uns anrufen, die Erwartung haben, dass sie eine sehr günstige Finanzierung erhalten könnten und nicht eine 50%-ige Absicherung des Kredits durch die Regierung“, sagte er.",
+      "context": "Kleine Unternehmen, die von den großen Banken oft nicht ausreichend bedient werden, wenden sich in stärkerem Maß an Online-Kreditgeber, um ihren Finanzierungsbedarf zu decken. Herr Callaghan sagte jedoch, dass Online-Kreditgeber im Vergleich zu den großen Banken benachteiligt seien, da sie keinen Zugang zu denselben günstigeren Finanzierungsmöglichkeiten hätten, und warnte, dass deshalb das Bürgschaftsprogramm für kleine und mittlere Unternehmen nicht in Schwung komme.",
+      "reference": "„Ich denke, dass es sein Ziel wahrscheinlich verfehlen wird, weil alle uns in Erwartung einer sehr günstigen Finanzierung anrufen, und nicht wegen einer 50 %-igen Staatsgarantie für den Kredit“, sagte er.",
+      "reference context": "Der Kleingewerbesektor, der von Großbanken oft vernachlässigt wird, deckt seinen Finanzierungsbedarf zunehmend bei Online-Kreditgebern. Mr. Callaghan sagte jedoch, dass Online-Kreditgeber Nachteile gegenüber Großbanken hätten, weil sie nicht den gleichen Zugang zu günstigerer Finanzierung hätten, und dass das KMU-Garantieprogramm, so warnte er, deshalb ins Leere laufe.",
+      "source": "\"I think it has probably missed the mark where all the people who call us, call in the expectation they can get very cheap funding rather than the government backing 50 per cent of the loan,\" he said.",
+      "source context": "The small business sector, often under-served by the big banks, has increasingly turned to online lenders to meet its funding needs. However, Mr Callaghan said online lenders were disadvantaged compared to the big banks because they did not have access to the same lower priced funding and warned as a result the SME guarantee scheme was not gaining traction."
+   },
+   {
+      "wrong translation": "Im März verlor es die von Kamal Nath geleitete Regierung in Madhya Pradesh, nachdem Jyotiraditya Scindia sich gemeinsam mit 22 seiner Mitglieder der Legislativversammlung mit der BJP zusammentat.",
+      "correct translation": "Im März verlor sie die von Kamal Nath geleitete Regierung in Madhya Pradesh, nachdem Jyotiraditya Scindia sich gemeinsam mit 22 seiner Mitglieder der Legislativversammlung mit der BJP zusammentat.",
+      "context": "Die BJP hat 72 und einschließlich Verbündete und Unabhängige steht sie bei 97 Stimmen. Wenn das Gericht zu Gunsten von Herrn Pilot entscheidet, kann die Kongresspartei die zweite der drei Regierungen verlieren, die sie nach den Parlamentswahlen im Jahr 2018 in den Kernstaaten gebildet hatte.",
+      "reference": "Im März verlor sie die von Kamal Nath geführte Regierung in Madhya Pradesh, nachdem Jyotiraditya Scindia sich mit 22 seiner Abgeordneten der BJP angeschlossen hatte.",
+      "reference context": "Die BJP hat 72 und kommt einschließlich der Koalitionspartner und Unabhängigen auf 97 Stimmen. Wenn das Gericht Mr. Pilot Recht gibt, kann die Kongresspartei die zweite der drei Regierungen verlieren, die sie in den Kernstaaten nach den Parlamentswahlen im Jahr 2018 gebildet hatte.",
+      "source": "In March, it lost the Kamal Nath-led government in Madhya Pradesh after Jyotiraditya Scindia joined the BJP with 22 of his MLAs.",
+      "source context": "The BJP has 72 and including allies and Independents, it stands at 97. If the court decides in favour of Mr Pilot, the Congress can lose the second of the three governments it formed in the heartland states following the 2018 assembly elections."
+   },
+   {
+      "wrong translation": "Sie sagte: „Wir wissen, dass es auf der ganzen Welt bekannt ist, und es ist fantastisch, dass die Renovierungsarbeiten bald beginnen werden.“",
+      "correct translation": "Sie sagte: „Wir wissen, dass sie auf der ganzen Welt bekannt ist, und es ist fantastisch, dass die Renovierungsarbeiten bald beginnen werden.“",
+      "context": "„Die Tatsache, dass die Arbeiten für die 10 Millionen Pfund teure Renovierung bald beginnen werden, ist das beste Geburtstagsgeschenk überhaupt und wird dafür sorgen, dass auch zukünftige Generationen die Brücke in ihrer ganzen Pracht genießen können.“ Hannah Smith, die Direktorin von Ice Scotland, bezeichnete die Brücke als einen „oft übersehenen“ Teil des industriellen Erbes in Schottland.",
+      "reference": "Sie sagte: „Wir wissen, dass sie weltweit bekannt ist und es ist großartig, dass die Renovierungsarbeiten bald beginnen werden.“",
+      "reference context": "„Aber die Tatsache, dass bald Renovierungsarbeiten für 10 Mio. £ beginnen werden, ist das beste Geburtstagsgeschenk überhaupt und wird sicherstellen, dass kommende Generationen sich an der Brücke in all ihrer Pracht erfreuen können.“ Direktorin von Ice Scotland Hannah Smith beschrieb die Brücke als ein „oft übersehenes“ Stück von Schottlands baulichem Erbe.",
+      "source": "She said: \"We know it is renowned the world over and it is fantastic that work will shortly commence on its renovation.\"",
+      "source context": "\"However, the fact that work is shortly going to begin on the £10m renovation is the best birthday present possible and will ensure generations to come will be able to enjoy the bridge in all its splendour.\" Ice Scotland director Hannah Smith described the bridge as an \"often-overlooked\" part of Scotland's engineering heritage."
+   },
+   {
+      "wrong translation": "„Im Grunde wird er gut sein für Europa, da er einen einfacheren Handel mit Gütern erlauben wird, aber er wird sehr einschränkend für uns sein in Bezug auf Dienstleistungen.",
+      "correct translation": "„Im Grunde wird sie gut sein für Europa, da sie einen einfacheren Handel mit Gütern erlauben wird, aber sie wird sehr einschränkend für uns sein in Bezug auf Dienstleistungen.",
+      "context": "Zu einem früheren Zeitpunkt im Interview sagte Herr Blair, dass das Vereinigte Königreich und die europäische Gemeinschaft vor Ablauf des Jahres immer noch zu einer Einigung zum Brexit kommen könnten. Er sagte: „Sie könnten eine Einigung erzielen. Aber jede Einigung, die wir erzielen, wird schlecht sein.“",
+      "reference": "„Es wird im Wesentlichen gut für die EU sein, weil es den Warenhandel erleichtern, uns hingegen sehr bei Dienstleistungsthemen hemmen wird.“",
+      "reference context": "Anfang des Interviews sagte Herr Blair, dass Großbritannien und die EU noch vor Jahresende ein Brexit-Abkommen erzielen könnten. Er sagte: „Sie könnten ein Abkommen erzielen. Auch wenn wir dabei den Kürzeren ziehen.“",
+      "source": "\"It's essentially going to be good for Europe because it will allow easier trade in goods but very inhibiting for us on the issue of services.\"",
+      "source context": "Earlier in the interview, Mr Blair said that the UK and EU could still land a deal on Brexit before the end of the year. He said: \"They could land a deal. But even the deal we land is going to be bad.\""
+   },
+   {
+      "wrong translation": "Sie war 1905 errichtet und vor dem ehemaligen Bezirksgerichtsgebäude Princess Anne aufgestellt worden, am selben Ort, an dem einst Sklavenversteigerungen abgehalten worden waren.",
+      "correct translation": "Es war 1905 errichtet und vor dem ehemaligen Bezirksgerichtsgebäude Princess Anne aufgestellt worden, am selben Ort, an dem einst Sklavenversteigerungen abgehalten worden waren.",
+      "context": "VIRGINIA BEACH, Virginia. -- Die Stadt Virginia Beach entfernte am Samstag ein 115 Jahre altes Konföderierten-Denkmal von öffentlichem Grund - nicht einmal zwei Tage nachdem der Stadtrat dies einstimmig beschlossen hatte. Medienberichten zufolge entfernten Arbeiter das 27 Fuß (8,2 m) hohe Denkmal am Samstagmorgen.",
+      "reference": "Das Denkmal wurde 1905 vor dem alten Gerichtsgebäude von Princess Anne County aufgestellt, an dem Ort, an dem früher Sklavenauktionen stattfanden.",
+      "reference context": "VIRGINIA BEACH, VA. -- Die Stadt Virginia Beach hat am Samstag ein 115 Jahre altes Konföderierten-Denkmal aus dem öffentlichen Raum abmontiert, weniger als zwei Tage nachdem der Stadtrat dies einstimmig beschlossen hatte. Wie Medien berichteten, bauten Arbeiter das 8,2 Meter (27 Fuß) hohe Denkmal am Samstagmorgen ab.",
+      "source": "It was installed in 1905 and stood outside the old Princess Anne County courthouse, in the same place that slave auctions were once held.",
+      "source context": "VIRGINIA BEACH, Va. -- The city of Virginia Beach removed a 115-year-old Confederate monument from public grounds on Saturday, less than two days after the City Council voted unanimously to do so. Workers took down the 27-foot (8.2-meter) tall monument on Saturday morning, media outlets reported."
+   },
+   {
+      "wrong translation": "Er sagte, dieser Schachzug würde \"die Reisepläne vieler Tausender Briten in Chaos stürzen\".",
+      "correct translation": "Sie sagte, dieser Schachzug würde \"die Reisepläne vieler Tausender Briten in Chaos stürzen\".",
+      "context": "Auf Druck seitens der Fluggesellschaften und der Tourismusindustrie, haben die Regierung und dezentrale Behörden eine Liste mit von den Vorschriften ausgenommenen Ländern veröffentlicht. British Airways gab an, es sei \"enttäuscht\" über die neuesten Änderungen an den Reisehinweisen und Reisevorschriften der Regierung, trotzdem die Fluggesellschaft ankündigte, die Flüge würden planmäßig abheben.",
+      "reference": "Die Fluggesellschaft teilte mit, dass dieser Schritt „die Reisepläne tausender Briten ins Chaos stürzt“",
+      "reference context": "Auf Druck der Luftfahrt- und Reiseindustrie haben die Regierung und die Regionalverwaltungen allerdings Listen von Ländern veröffentlicht, die von den Regelungen ausgenommen sind. British Airways erklärte ihre „Enttäuschung“ über die jüngsten Änderungen der Reisehinweise und -regelungen der Regierung, wobei die Fluggesellschaft erklärte, dass ihre Flüge weiterhin durchgeführt würden.",
+      "source": "It said the move was \"throwing thousands of Britons' travel plans into chaos.\"",
+      "source context": "But after pressure from the aviation and travel industries, the government and devolved administrations published lists of countries exempt from the rules. British Airways said it was \"disappointed\" about the latest changes to the government's travel advice and rules, although the airline said its flights were continuing to operate."
+   },
+   {
+      "wrong translation": "Seitens der Kongresspartei hieß es, dass er das gleiche in Madhya Pradesh getan habe.",
+      "correct translation": "Seitens der Kongresspartei hieß es, dass sie das gleiche in Madhya Pradesh getan habe.",
+      "context": "Während es seitens der Partei hieß, dass eine Protestkundgebung vor Rashtrapati Bhavan, dem offiziellen Wohnsitz von Präsident Ram Nath Kovind abgehalten werde. In dem Video beschuldigte die Kongresspartei die BJP „die Verfassung mit Füßen zu treten und den Hammer an die Demokratie zu legen“, während das ganze Land gegen den Coronavirus kämpfe.",
+      "reference": "Sie haben das Gleiche in Madhya Pradesh getan, sagte die Kongresspartei.",
+      "reference context": "Die Partei kündigte eine Protestaktion vor dem Rashtrapati Bhavan, dem Amtssitz von Präsident Ram Nath Kovind, an. In dem Video beschuldigt die Kongresspartei die BJP, „die Verfassung zu zerreißen und die Demokratie zu zerstören“, während das ganze Land gegen das Coronavirus kämpft.",
+      "source": "It has done the same in Madhya Pradesh, the Congress said.",
+      "source context": "While the party said a protest will be held outside the Rashtrapati Bhavan, the official residence of President Ram Nath Kovind. In the video, the Congress has accused the BJP of \"Ripping up the constitution and demolishing democracy\" while the whole country is fighting the coronavirus."
+   },
+   {
+      "wrong translation": "„Sie ist immer noch aktiv und tödlich. Den Virus zu unterdrücken, indem wir seine Übertragung verhindern und das Gesundheitswesen schützen, hat für uns Priorität.“",
+      "correct translation": "„Er ist immer noch aktiv und tödlich. Den Virus zu unterdrücken, indem wir seine Übertragung verhindern und das Gesundheitswesen schützen, hat für uns Priorität.“",
+      "context": "Aber die aktuellen Daten machen uns eindeutig Sorgen und deshalb haben wir die Entscheidung revidiert. „Uns ist klar, dass dies enttäuschend ist. Wir haben aber immer klar gesagt, dass wir die Pandemiesituation in allen Ländern genau beobachten werden und wir möglicherweise ein Land von der Liste der Orte streichen müssen, die von Quarantäneauflagen befreit sind, wenn der Virus wieder auftaucht.“",
+      "reference": "„Es ist immer noch aktiv und es ist immer noch tödlich. Es ist unsere Priorität, das Virus einzudämmen, seine Übertragung zu verhindern und die öffentliche Gesundheit zu schützen.",
+      "reference context": "Die neuesten Daten haben uns jedoch eindeutig genug Grund zur Besorgnis gegeben, um diese Entscheidung zurückzunehmen. „Uns ist klar dass dies enttäuschend sein wird. Wir haben jedoch immer klargestellt, dass wir die Situation der Pandemie in allen Ländern genau beobachten, und dass es nötig sein kann, ein Land von der Liste der von der Quarantäne befreiten Länder zu entfernen, wenn das Virus dort einen erneuten Anstieg verzeichnet.“",
+      "source": "\"It is still active and it is still deadly. Suppressing the virus, preventing it from being transmitted and protecting public health is our priority.\"",
+      "source context": "But clearly the latest data has given us cause for concern to overturn that decision. \"We appreciate that this will be disappointing. However, we have always been clear we are closely monitoring the pandemic situation in all countries and that we may require to remove a country from the list of places exempt from quarantine requirements should the virus show a resurgence.\""
+   },
+   {
+      "wrong translation": "Sie will auch Talibankämpfer anwerben, die gegen ein Abkommen mit den Vereinigten Staaten sind“, steht in dem Bericht unter Bezugnahme auf das im Februar unterzeichnete Friedensabkommen zwischen den USA und den Taliban.",
+      "correct translation": "Er will auch Talibankämpfer anwerben, die gegen ein Abkommen mit den Vereinigten Staaten sind“, steht in dem Bericht unter Bezugnahme auf das im Februar unterzeichnete Friedensabkommen zwischen den USA und den Taliban.",
+      "context": "In dem Bericht steht auch, dass die Überwachungsabteilung Informationen erhalten habe, demgemäß vor kurzem zwei erfahrene Kommandanten des Islamischen Staates, Abu Qutaibah und Abu Hajar al-Iraqi aus dem Nahen Osten nach Afghanistan gekommen seien. „Trotz seines Rückzugs ist (der Islamische Staat) weiter in der Lage, sensible Ziele in verschiedenen Landesteilen anzugreifen, auch in Kabul.",
+      "reference": "Außerdem zielt er darauf ab, Taliban-Kämpfer anzuwerben, die das Abkommen mit den Vereinigten Staaten ablehnen“, heißt es in dem Bericht, der sich auf ein im Februar unterzeichnetes Friedensabkommen der USA mit den Taliban bezieht.",
+      "reference context": "In dem Bericht heißt es weiter, das Überwachungsteam habe Informationen erhalten, wonach zwei hochrangige Befehlshaber des Islamischen Staates, Abu Qutaibah und Abu Hajar al-Iraqi, kürzlich aus dem Nahen Osten nach Afghanistan angekommen seien. „Obwohl sich der Islamische Staat auf dem Rückzug befindet, ist er weiterhin in der Lage, in verschiedenen Teilen des Landes, darunter auch in Kabul, schwere Anschläge zu verüben.",
+      "source": "It also aims to attract Taliban fighters who oppose the agreement with the United States,\" the report said, referring to a U.S. peace deal signed with the Taliban in February.",
+      "source context": "The report also said the monitoring team had received information that two senior Islamic State commanders, Abu Qutaibah and Abu Hajar al-Iraqi, had recently arrived in Afghanistan from the Middle East. \"Although in territorial retreat, (the Islamic State) remains capable of carrying out high-profile attacks in various parts of the country, including Kabul."
+   },
+   {
+      "wrong translation": "„Sie wird im Wesentlichen gut für die EU sein, weil sie den Warenhandel erleichtern, uns hingegen sehr bei Dienstleistungsthemen hemmen wird.“",
+      "correct translation": "„Es wird im Wesentlichen gut für die EU sein, weil es den Warenhandel erleichtern, uns hingegen sehr bei Dienstleistungsthemen hemmen wird.“",
+      "context": "Anfang des Interviews sagte Herr Blair, dass Großbritannien und die EU noch vor Jahresende ein Brexit-Abkommen erzielen könnten. Er sagte: „Sie könnten ein Abkommen erzielen. Auch wenn wir dabei den Kürzeren ziehen.“",
+      "reference": "„Im Grunde wird sie gut sein für Europa, da sie einen einfacheren Handel mit Gütern erlauben wird, aber sie wird sehr einschränkend für uns sein in Bezug auf Dienstleistungen.",
+      "reference context": "Zu einem früheren Zeitpunkt im Interview sagte Herr Blair, dass das Vereinigte Königreich und die europäische Gemeinschaft vor Ablauf des Jahres immer noch zu einer Einigung zum Brexit kommen könnten. Er sagte: „Sie könnten eine Einigung erzielen. Aber jede Einigung, die wir erzielen, wird schlecht sein.“",
+      "source": "\"It's essentially going to be good for Europe because it will allow easier trade in goods but very inhibiting for us on the issue of services.\"",
+      "source context": "Earlier in the interview, Mr Blair said that the UK and EU could still land a deal on Brexit before the end of the year. He said: \"They could land a deal. But even the deal we land is going to be bad.\""
+   },
+   {
+      "wrong translation": "Sie verstößt auch gegen den Grundsatz der Gewaltenteilung, wonach die Gerichte die Maßnahmen der Exekutive überprüfen.",
+      "correct translation": "Es verstößt auch gegen den Grundsatz der Gewaltenteilung, wonach die Gerichte die Maßnahmen der Exekutive überprüfen.",
+      "context": "Mit dem neuen Gesetzentwurf wird die Entscheidung über die Ausstellung eines Vernehmungsbefehls vom Richter auf den Generalstaatsanwalt übertragen. Wie der Generalinspekteur für Nachrichtendienste und Sicherheit feststellte, \"weicht\" dies \"vom Trend zu erhöhten Anforderungen für externe Genehmigungen in anderen Five-Eyes-Rechtsordnungen ab.\"",
+      "reference": "Außerdem verstößt es gegen den Grundsatz der Gewaltenteilung, demzufolge die Gerichte die Maßnahmen der Exekutive kontrollieren.",
+      "reference context": "Mit dem neuen Gesetz wird die Entscheidung über die Ausstellung eines Verhörbefehls von einem Richter auf den Generalstaatsanwalt übertragen. Wie der Generalinspektor für Nachrichtendienste und Sicherheit betonte, weicht dies „von der Tendenz ab, dass in anderen Five-Eyes-Ländern verstärkt externe Genehmigungen verlangt werden“.",
+      "source": "It also breaches the separation of powers principle that courts scrutinise the actions of executive government.",
+      "source context": "The new bill transfers the decision to issue a questioning warrant from a judge to the Attorney-General. As pointed out by the Inspector-General of Intelligence and Security, this \"departs from the trend for increased requirements for external authorisation in other Five Eyes jurisdictions.\""
+   },
+   {
+      "wrong translation": "Er wies auch nach, dass das viel gepriesene Medikament Hydroxychloroquin – ebenso wie die Kombinationstherapie aus den Medikamenten Lopinavir und Ritonavir – keine lebensrettende Wirkung für Patienten hatten.",
+      "correct translation": "Es wies auch nach, dass das viel gepriesene Medikament Hydroxychloroquin – ebenso wie die Kombinationstherapie aus den Medikamenten Lopinavir und Ritonavir – keine lebensrettende Wirkung für Patienten hatten.",
+      "context": "Anschließend werden die Ergebnisse verglichen und die Wirksamkeit der Behandlung kommt zum Vorschein. Auf diese Weise konnte Recovery nachweisen, dass das Steroid Dexamethason die Todesfälle bei beatmeten Covid-19-Patienten um ein Drittel reduziert.",
+      "reference": "Es zeigte sich auch, dass das hoch gepriesene Arzneimittel Hydroxychloroquin - sowie die Kombinationstherapie aus den Arzneimitteln Lopinavir und Ritonavir - keine Auswirkungen darauf hatte, das Leben von Patienten zu retten.",
+      "reference context": "Dann werden die Ergebnisse verglichen und die Wirksamkeit der Behandlung veröffentlicht. So konnte Recovery demonstrieren, dass durch das Steroid Dexamethosan die Sterblichkeit von an Atmungsgeräte angeschlossenen Covid-19-Patienten um ein Drittel reduziert werden konnte.",
+      "source": "It also showed that the much-hyped drug hydroxychloroquine - as well as the combined therapy of the drugs lopinavir and ritonavir - had no effect in saving patients' lives.",
+      "source context": "Then results are compared and the efficacy of the treatment revealed. In this way, Recovery was able to demonstrate that the steroid dexamethasone reduced deaths by a third in Covid-19 patients on ventilators."
+   },
+   {
+      "wrong translation": "„Ich denke, dass er sein Ziel wahrscheinlich verfehlen wird, weil alle uns in Erwartung einer sehr günstigen Finanzierung anrufen, und nicht wegen einer 50 %-igen Staatsgarantie für den Kredit“, sagte er.",
+      "correct translation": "„Ich denke, dass es sein Ziel wahrscheinlich verfehlen wird, weil alle uns in Erwartung einer sehr günstigen Finanzierung anrufen, und nicht wegen einer 50 %-igen Staatsgarantie für den Kredit“, sagte er.",
+      "context": "Der Kleingewerbesektor, der von Großbanken oft vernachlässigt wird, deckt seinen Finanzierungsbedarf zunehmend bei Online-Kreditgebern. Mr. Callaghan sagte jedoch, dass Online-Kreditgeber Nachteile gegenüber Großbanken hätten, weil sie nicht den gleichen Zugang zu günstigerer Finanzierung hätten, und dass das KMU-Garantieprogramm, so warnte er, deshalb ins Leere laufe.",
+      "reference": "„Meiner Meinung nach hat es insofern das Ziel verfehlt, dass die Menschen, die uns anrufen, die Erwartung haben, dass sie eine sehr günstige Finanzierung erhalten könnten und nicht eine 50%-ige Absicherung des Kredits durch die Regierung“, sagte er.",
+      "reference context": "Kleine Unternehmen, die von den großen Banken oft nicht ausreichend bedient werden, wenden sich in stärkerem Maß an Online-Kreditgeber, um ihren Finanzierungsbedarf zu decken. Herr Callaghan sagte jedoch, dass Online-Kreditgeber im Vergleich zu den großen Banken benachteiligt seien, da sie keinen Zugang zu denselben günstigeren Finanzierungsmöglichkeiten hätten, und warnte, dass deshalb das Bürgschaftsprogramm für kleine und mittlere Unternehmen nicht in Schwung komme.",
+      "source": "\"I think it has probably missed the mark where all the people who call us, call in the expectation they can get very cheap funding rather than the government backing 50 per cent of the loan,\" he said.",
+      "source context": "The small business sector, often under-served by the big banks, has increasingly turned to online lenders to meet its funding needs. However, Mr Callaghan said online lenders were disadvantaged compared to the big banks because they did not have access to the same lower priced funding and warned as a result the SME guarantee scheme was not gaining traction."
+   },
+   {
+      "wrong translation": "Im März verlor es die von Kamal Nath geführte Regierung in Madhya Pradesh, nachdem Jyotiraditya Scindia sich mit 22 seiner Abgeordneten der BJP angeschlossen hatte.",
+      "correct translation": "Im März verlor sie die von Kamal Nath geführte Regierung in Madhya Pradesh, nachdem Jyotiraditya Scindia sich mit 22 seiner Abgeordneten der BJP angeschlossen hatte.",
+      "context": "Die BJP hat 72 und kommt einschließlich der Koalitionspartner und Unabhängigen auf 97 Stimmen. Wenn das Gericht Mr. Pilot Recht gibt, kann die Kongresspartei die zweite der drei Regierungen verlieren, die sie in den Kernstaaten nach den Parlamentswahlen im Jahr 2018 gebildet hatte.",
+      "reference": "Im März verlor sie die von Kamal Nath geleitete Regierung in Madhya Pradesh, nachdem Jyotiraditya Scindia sich gemeinsam mit 22 seiner Mitglieder der Legislativversammlung mit der BJP zusammentat.",
+      "reference context": "Die BJP hat 72 und einschließlich Verbündete und Unabhängige steht sie bei 97 Stimmen. Wenn das Gericht zu Gunsten von Herrn Pilot entscheidet, kann die Kongresspartei die zweite der drei Regierungen verlieren, die sie nach den Parlamentswahlen im Jahr 2018 in den Kernstaaten gebildet hatte.",
+      "source": "In March, it lost the Kamal Nath-led government in Madhya Pradesh after Jyotiraditya Scindia joined the BJP with 22 of his MLAs.",
+      "source context": "The BJP has 72 and including allies and Independents, it stands at 97. If the court decides in favour of Mr Pilot, the Congress can lose the second of the three governments it formed in the heartland states following the 2018 assembly elections."
+   },
+   {
+      "wrong translation": "Sie sagte: „Wir wissen, dass er weltweit bekannt ist und es ist großartig, dass die Renovierungsarbeiten bald beginnen werden.“",
+      "correct translation": "Sie sagte: „Wir wissen, dass sie weltweit bekannt ist und es ist großartig, dass die Renovierungsarbeiten bald beginnen werden.“",
+      "context": "„Aber die Tatsache, dass bald Renovierungsarbeiten für 10 Mio. £ beginnen werden, ist das beste Geburtstagsgeschenk überhaupt und wird sicherstellen, dass kommende Generationen sich an der Brücke in all ihrer Pracht erfreuen können.“ Direktorin von Ice Scotland Hannah Smith beschrieb die Brücke als ein „oft übersehenes“ Stück von Schottlands baulichem Erbe.",
+      "reference": "Sie sagte: „Wir wissen, dass sie auf der ganzen Welt bekannt ist, und es ist fantastisch, dass die Renovierungsarbeiten bald beginnen werden.“",
+      "reference context": "„Die Tatsache, dass die Arbeiten für die 10 Millionen Pfund teure Renovierung bald beginnen werden, ist das beste Geburtstagsgeschenk überhaupt und wird dafür sorgen, dass auch zukünftige Generationen die Brücke in ihrer ganzen Pracht genießen können.“ Hannah Smith, die Direktorin von Ice Scotland, bezeichnete die Brücke als einen „oft übersehenen“ Teil des industriellen Erbes in Schottland.",
+      "source": "She said: \"We know it is renowned the world over and it is fantastic that work will shortly commence on its renovation.\"",
+      "source context": "\"However, the fact that work is shortly going to begin on the £10m renovation is the best birthday present possible and will ensure generations to come will be able to enjoy the bridge in all its splendour.\" Ice Scotland director Hannah Smith described the bridge as an \"often-overlooked\" part of Scotland's engineering heritage."
+   },
+   {
+      "wrong translation": "Sie fügte hinzu, dass 6.152.524 Personen im Land an COVID-19 erkrankten und dass 5.963.373 der infizierten Personen genasen und aus den Krankenhäusern entlassen wurden.",
+      "correct translation": "Es fügte hinzu, dass 6.152.524 Personen im Land an COVID-19 erkrankten und dass 5.963.373 der infizierten Personen genasen und aus den Krankenhäusern entlassen wurden.",
+      "context": "Das Gesundheitsministerium des Iran hat 1.686 neue tägliche COVID-19-Infektionen verzeichnet, die niedrigste Zahl in den letzten 460 Tagen, was einen starken Rückgang der Fälle markiert, während die fünfte Welle der Pandemie abflaut. Laut Press TV meldete das Ministerium am Samstag, dass 58 Iraner an der Krankheit verstorben waren, und gab an, dass unter den festgestellten neuen Fällen in den letzten 24 Stunden 286 Patienten ins Krankenhaus kamen.",
+      "reference": "Es fügte hinzu, dass 6.152.524 Menschen im Land an COVID-19 erkrankt und 5,963,373 der infizierten Personen geheilt und aus den Krankenhäusern entlassen wurden.",
+      "reference context": "Das Gesundheitsministerium des Iran hat 1686 neue tägliche COVID-19-Infektionen gemeldet, die niedrigste Zahl in den letzten 460 Tagen und eine drastische Abnahme der Fälle, jetzt wo die fünfte Welle der Pandemie abklingt. Laut Press TV verkündete das Ministerium am Samstag, dass 58 Iraner an der Krankheit gestorben seien, und bemerkte, dass von den in den letzten 24 Stunden aufgedeckten, neuen Fällen 286 Patienten in ein Krankenhaus eingeliefert wurden.",
+      "source": "It added that 6,152,524 people in the country have contracted COVID-19 and 5,963,373 of the infected people recovered and were discharged from hospitals.",
+      "source context": "Iran's Health Ministry has registered 1,686 new daily COVID-19 infections, the lowest tally over the past 460 days, marking a sharp decline in cases as the fifth wave of the pandemic subsides. According to Press TV, the Ministry announced on Saturday that 58 Iranians died from the disease, noting that out of the new cases detected over the past 24 hours, 286 patients were admitted to hospital."
+   },
+   {
+      "wrong translation": "Ich dachte, er sei bereits geliefert.",
+      "correct translation": "Ich dachte, sie sei bereits geliefert.",
+      "context": "Vielen Dank für Ihre Geduld. Zuvor wurde die falsche Bestellung ausgewählt, deshalb irrte ich mich.",
+      "reference": "Ich dachte, sie war schon zugestellt.",
+      "reference context": "Vielen Dank für Ihre Geduld. Es wurde vorher die falsche Bestellung ausgewählt, darum war ich vorher verwirrt.",
+      "source": "I thought it was already delivered.",
+      "source context": "Thanks for waiting. Wrong order was selected earlier that's why I got confused earlier."
+   },
+   {
+      "wrong translation": "„Sie bewegt sich aber sehr schnell und wird daher bis Montagnachmittag durchgezogen sein, und um die Mittagszeit wird es nachlassen und sich beruhigen.",
+      "correct translation": "„Es bewegt sich aber sehr schnell und wird daher bis Montagnachmittag durchgezogen sein, und um die Mittagszeit wird es nachlassen und sich beruhigen.",
+      "context": "Eine weitere Warnung tritt um Mitternacht am Sonntag in Kraft und gilt für Orkney und Shetland. „Diese Warnung dauert bis Montagmittag, während das Zentrum des Niederdrucksystems bis dicht an die nördlichen Inseln heranrückt und wieder Böen von 80-85 Meilen pro Stunde entlang der Küsten bringt, die örtlich in einigen Gebieten sogar 90 Meilen pro Stunde überschreiten können“, sagte Philip.",
+      "reference": "„Es bewegt sich allerdings sehr rasch, weshalb es gegen Montag Nachmittag aufklart und die Situation sich zum Mittagessen zu entspannen beginnt.",
+      "reference context": "Eine weitere Warnung wurde für den Sonntag für Orkney und Shetland ausgesprochen. „Diese Warnung bleibt bis Montag Mittag bestehen, da das Zentrum des Niederdrucksystems in der Nähe der nördlichen Inseln vorbeizieht und erneut in einigen Gebieten Windböen mit Geschwindigkeiten von 80 bis 85 mph mit sich bringt“, sagte Philip.",
+      "source": "\"It is very fast moving though, so will clear away by Monday afternoon, with things beginning to ease and calm by lunchtime.",
+      "source context": "A further warning comes into effect at midnight on Sunday covering Orkney and Shetland. \"This warning lasts until midday Monday as the centre of the low pressure system moves close to the Northern Isles, again bringing gusts of 80-85mph along coasts and locally in excess of 90mph in some areas,\" Philip said."
+   },
+   {
+      "wrong translation": "Die Frage ist, kann es eine ganze Badewanne füllen, ohne kalt zu werden.",
+      "correct translation": "Die Frage ist, kann er eine ganze Badewanne füllen, ohne kalt zu werden.",
+      "context": "Mein Wassererhitzer ist ziemlich niedrig eingestellt. Es ist ein kleiner Tank in einem Schrank (ich wohne in einem alten Vorkriegsappartement).",
+      "reference": "Es passiert Folgendes - Die Badewanne wird ganz gefüllt, ohne dass dabei das Wasser kalt wird.",
+      "reference context": "Mein Warmwassererhitzer ist ziemlich niedrig eingestellt. Es ist ein kleiner Behälter in einem Schrank (ich lebe in einem alten Appartement von vor dem Krieg).",
+      "source": "Question is, it does fill the bathtub up all the way without going cold.",
+      "source context": "My water heater is set pretty low. It’s a small tank in a closet (I live in an old pre-war apartment)."
+   },
+   {
+      "wrong translation": "Sie ist nur schwer zugänglich, also lasse ich ihn bei dieser Temperatur und lasse es bleiben.",
+      "correct translation": "Er ist nur schwer zugänglich, also lasse ich ihn bei dieser Temperatur und lasse es bleiben.",
+      "context": "Ich habe die Temperatur nur ein kleines bisschen hochgedreht, und das reichte. Der Kommentar dazu, dass Kochen ineffizient ist, stimmt wahrscheinlich, obwohl der Wassererhitzer ständig läuft, aber das Ding ist SO STARK isoliert.",
+      "reference": "Es ist schwer ranzukommen, deshalb lasse ich ihn auf der Temperatur und belasse es dabei.",
+      "reference context": "Ich habe die Wärme nur etwas hochgedreht, und das hat geholfen. Der Kommentar, dass Aufheizen ineffizient ist, ist wahrscheinlich richtig, da das Ding SO GUT isoliert ist, auch wenn der Warmwassererhitzer dauernd läuft.",
+      "source": "It’s hard to get to so I’m leaving it at that temp and calling it a day.",
+      "source context": "I turned up the heat just a little and it did the trick. The comment about boiling being inefficient is probably correct bc even though the water heater is running continuously, that thing has SO MUCH insulation."
+   },
+   {
+      "wrong translation": "Sie bezieht sich auf ein umgestürztes Bronze-Denkmal des Händlers Edward Colston aus dem 17. Jahrhundert, der am transatlantischen Sklavenhandel beteiligt war.",
+      "correct translation": "Es bezieht sich auf ein umgestürztes Bronze-Denkmal des Händlers Edward Colston aus dem 17. Jahrhundert, der am transatlantischen Sklavenhandel beteiligt war.",
+      "context": "Ein fast zweiminütiges Video auf Twitter zeigt eine endlose Kundenschlange. Britische Medien berichteten, dass „Tausende“ willens waren, Geld für die Demonstranten auszugeben, indem sie das graue T-Shirt kauften, das einen leeren Sockel mit dem Schriftzug „Bristol“ darüber zeigt.",
+      "reference": "Es bezieht sich ein umgestürztes Bronzedenkmal für den Kaufmann Edward Colston aus dem 17. Jahrhundert, der am transatlantischen Sklavenhandel beteiligt war.",
+      "reference context": "Ein fast zweiminütiges Video auf Twitter zeigt eine endlose Schlange von Kunden. Britische Medien berichteten, dass „Tausende“ ganz eifrig Geld für die Demonstranten sammelten, indem sie das graue T-Shirt kauften, welches einen leeren Sockel darstellt, auf dem „Bristol“ geschrieben steht.",
+      "source": "It refers to a toppled bronze memorial to the 17th century merchant Edward Colston, who was involved in the transatlantic slave trade.",
+      "source context": "An almost two-minute long video posted on Twitter shows an endless line of customers. UK media reported that \"thousands\" were eager to raise cash for the protesters by purchasing the gray T-shirt, which depicts an empty plinth with \"Bristol\" written above it."
+   },
+   {
+      "wrong translation": "Er kann aber als Unterstützung in aktuellen Situationen dienen, wo der PCR-Test für Omikron noch nicht entwickelt ist.",
+      "correct translation": "Sie kann aber als Unterstützung in aktuellen Situationen dienen, wo der PCR-Test für Omikron noch nicht entwickelt ist.",
+      "context": "Wir werden versuchen, neue Varianten, die nach COVID-19 auftreten können, rasch zu diagnostizieren und darauf zu reagieren. Diese Technik ist derzeit noch nicht reif zur Kommerzialisierung.",
+      "reference": "Sie kann jedoch als Zusatz bei aktuellen Situationen, bei denen der PCR-Test für Omikron nicht entwickelt wurde, verwendet werden.",
+      "reference context": "Wir werden versuchen, neue Varianten, die nach COVID-19 auftreten, zu diagnostizieren und darauf zu reagieren. Diese Technologie steht derzeit kurz vor Vermarktung.",
+      "source": "However, it can be used as an auxiliary in current situations where the PCR test for Omicron has not been developed.",
+      "source context": "We will try to quickly diagnose and respond to new variants that may come out after COVID-19. This technology is currently before commercialization."
+   },
+   {
+      "wrong translation": "Es skaliert Kompositvideo, s-Video (Y/C), Komponentenvideo (YUV), HDMI, Computergrafik-Video und JPEG-Dateien auf ein auswählbares Computergrafik-Video herauf oder herunter oder die HDTV-Ausgangsauflösung an identischen Ausgängen – einem HDMI und zwei 15-poligen HD.",
+      "correct translation": "Er skaliert Kompositvideo, s-Video (Y/C), Komponentenvideo (YUV), HDMI, Computergrafik-Video und JPEG-Dateien auf ein auswählbares Computergrafik-Video herauf oder herunter oder die HDTV-Ausgangsauflösung an identischen Ausgängen – einem HDMI und zwei 15-poligen HD.",
+      "context": "Englisch ist meine Zweitsprache. Der VP−730 ist ein 9-Eingangs-Skalierer/Umschalter für analoges Video, digitales Video, Balanced-Stereo und S/PDIF-Audiosignale.",
+      "reference": "Er skaliert Composite, S-Video (Y/C), Komponentenvideo (YUV), HDMI, Computergrafikvideo und JPEG-Dateien auf eine auswählbare Computergrafikvideo- oder HDTV-Ausgabeauflösung auf identischen Ausgängen herauf oder herunter − ein HDMI-Ausgang und zwei 15-polige HD-Ausgänge.",
+      "reference context": "Englisch ist meine Zweitsprache. Der VP−730 ist ein Scaler/Umschalter mit 9 Eingängen für analoge Video-, digitale Video-, symmetrische Stereo- und S/PDIF-Audiosignale.",
+      "source": "It up− or down−scales composite, s−Video (Y/C), component video (YUV), HDMI, computer graphics video and JPEG files to a selectable computer graphics video or HDTV output resolution on identical outputs − one HDMI and two 15−pin HD.",
+      "source context": "English is my second language. The VP−730 is a 9−input scaler/switcher for analog video, digital video, balance stereo and S/PDIF audio signals."
+   },
+   {
+      "wrong translation": "Er folgt auf Gespräche unter den G7-Außenministern in Liverpool am Samstag über koordinierte Maßnahmen, die in Afghanistan ergriffen werden können, und darüber, wie mit Taliban-Herrschern umgegangen werden soll.",
+      "correct translation": "Sie folgt auf Gespräche unter den G7-Außenministern in Liverpool am Samstag über koordinierte Maßnahmen, die in Afghanistan ergriffen werden können, und darüber, wie mit Taliban-Herrschern umgegangen werden soll.",
+      "context": "Weitere £75 Millionen sollen vom Vereinigten Königreich zur Unterstützung an Afghanistan gehen, um angesichts der immer schlechter werdenden humanitären Lage zu helfen, kündigte Liz Truss an. Die Außenministerin sagte, durch diese Zusicherung werde dazu beigetragen, Leben zu retten und „die Stabilität in der Region zu unterstützen“.",
+      "reference": "Sie kommt nach Gesprächen mit den Außenministern der G7-Staaten am Samstag in Liverpool darüber, welche koordinierten Maßnahmen in Afghanistan getroffen werden können und wie mit den Taliban-Herrschern umgegangen werden soll.",
+      "reference context": "Weitere 75 Millionen £ sollen vom Vereinigten Königreich für Afghanistan als Beihilfe bereitgestellt werden, um die sich verschärfende humanitäre Situation zu lindern, wie Liz Truss angekündigt hat. Die Außenministerin sagte, die Zusage hilft dabei, Leben zu retten und „die Stabilität in der Region zu stärken“.",
+      "source": "It follows discussions among G7 foreign ministers in Liverpool on Saturday about what co-ordinated action can be taken in Afghanistan, along with how to engage with the Taliban rulers.",
+      "source context": "A further £75 million in aid is to be given to Afghanistan by the UK to help address its worsening humanitarian situation, Liz Truss has announced. The Foreign Secretary said the commitment would help save lives and \"support stability in the region.\""
+   },
+   {
+      "wrong translation": "Ist er vielleicht verloren gegangen?",
+      "correct translation": "Ist sie vielleicht verloren gegangen?",
+      "context": "Wenn Sie eine MwSt-Quittung benötigen, kontaktieren Sie uns, damit wir sie Ihnen per E-Mail senden können. Q. Ich warte schon lange auf meine Bestellung, und sie ist nicht angekommen.",
+      "reference": "Ist es möglich, dass sie verloren gegangen ist?",
+      "reference context": "Wenn Sie einen Umsatzsteuernachweis benötigen, kontaktieren Sie uns, damit wir Ihnen einen per E-Mail senden können. Q. Ich warte nun schon eine ganze Weile auf meine Bestellung, aber sie ist noch nicht da.",
+      "source": "Is it possibly lost?",
+      "source context": "If you require a VAT receipt, please contact us and we can email one over. Q. I have been waiting a while for my order and it hasn’t arrived."
+   },
+   {
+      "wrong translation": "Seit 1987 setzt sie den Leistungsstandard für Winterschlafsäcke, den andere erst einmal erreichen müssen.",
+      "correct translation": "Seit 1987 setzt er den Leistungsstandard für Winterschlafsäcke, den andere erst einmal erreichen müssen.",
+      "context": "Der vielfach erprobte und getestete, in Großbritannien hergestellte Schlafsack kombiniert Mikropackgröße mit Topleistung. Manche betrachten den Softie 12 Osprey als den besten aller ganzjährigen Schlafsäcke mit synthetischer Füllung auf dem Markt.",
+      "reference": "Seit 1987 setzt er den Standard für Performance in Winterpackgröße, dem anderen folgen müssen.",
+      "reference context": "Dieser in Großbritannien hergestellte Schlafsack ist ein erprobter und getesteter Favorit und kombiniert minimale Packgröße mit ernst zu nehmenden Leistungen. Viele sehen im Softie 12 Osprey den ultimativen Ganzjahres-Schlafsack mit synthetischer Füllung.",
+      "source": "Since 1987, it has been setting the standard for winter pack size performance for others to follow.",
+      "source context": "A tried and tested favourite, this British made sleeping bag combines micro pack size with serious performance. Many view the Softie 12 Osprey the ultimate four season synthetic fill sleeping bag available."
+   },
+   {
+      "wrong translation": "Sie befand sich unter der Hauptbrücke auf Deck 3 und 4 und war wohl eine ziemlich große Anlage.",
+      "correct translation": "Er befand sich unter der Hauptbrücke auf Deck 3 und 4 und war wohl eine ziemlich große Anlage.",
+      "context": "Ich fand es immer Klasse, wenn in manchen Folgen die Zwillings-Shuttlehangars am Ende des Mittelbereichs, Halses oder wie Sie es nennen wollen, gezeigt wurden. Wie kommt es, dass wir den Haupt-Shuttlehangar nie gesehen haben?",
+      "reference": "Es war unter der Hauptbrücke auf den Decks 3 und 4 und müsste vermutlich riesig sein.",
+      "reference context": "Ich mochte es immer, wenn Episoden die doppelten Shuttlebays im Heck der Mittelsektion, des Halses oder, wie auch immer Ihr es nennen wollt, zeigten. Wie kommt es nur, dass wir niemals das Haupt-Shuttlebay zu sehen bekamen?",
+      "source": "It was located below the main bridge on decks 3&4 and would presumably be a massive facility.",
+      "source context": "I always loved it when episodes would showcase the twin shuttlebays at the back of the mid-section, neck, or whatever you want to call it. How come we never saw the main shuttlebay?"
+   },
+   {
+      "wrong translation": "Nein, tut es nicht.",
+      "correct translation": "Nein, tut sie nicht.",
+      "context": ">Damit wird zugelassen, das Uri Geller versucht, James Randi fertig zu machen. Hier endet die Geschichte, und die Lüge stirbt.",
+      "reference": "Nein, ist es nicht.",
+      "reference context": ">Das ist, also ob man Uri Geller versuchen lässt, James Randi hinters Licht zu führen. Hier endet die Geschichte, und die Lüge stirbt.",
+      "source": "No, it's not.",
+      "source context": ">This is letting Uri Geller try and pull his shit on James Randi. This is where the story ends and the lie goes to die."
+   },
+   {
+      "wrong translation": "Das bedeutet nicht, dass er beschädigt ist.",
+      "correct translation": "Das bedeutet nicht, dass es beschädigt ist.",
+      "context": "Schreiben Sie uns, um sich über die Farbe des aktuellen Lagerbestands zu informieren. Echtes Leder kann sehr kleine Schnitte/Kratzer/Markierungen aufweisen.",
+      "reference": "Dies bedeutet nicht, dass es beschädigt ist.",
+      "reference context": "Fragen Sie schriftlich die derzeitig vorrätige Farbe an. Echtes Leder hat möglicherweise sehr kleine Schnitte / Narben / Flecken.",
+      "source": "This does not mean it is damaged.",
+      "source context": "Please write to us to know the current stock color. Genuine leather might have very small cut / scars / mark on it."
+   },
+   {
+      "wrong translation": "Stellen Sie es für einige Tage in die Sonne und an die frische Luft.",
+      "correct translation": "Stellen Sie sie für einige Tage in die Sonne und an die frische Luft.",
+      "context": "Diese Merkmale sind Zeichen der Echtheit unserer Ranzen und Kuriertaschen aus Leder, sie gehören zur Tasche und beeinträchtigen deren Haltbarkeit nicht. Echtes Leder kann leicht riechen, wenn es frisch ist, aber der Geruch vergeht, wenn die Tasche in Gebrauch ist.",
+      "reference": "Bewahren Sie sie einige Tage in der Sonne und an der frischen Luft auf.",
+      "reference context": "Diese Merkmale zeugen von der echten Herkunft unserer Schulter- und Botentaschen, bilden einen Teil der Tasche und beeinträchtigen nicht deren Langlebigkeit. Frisches Echtleder riecht etwas, der Geruch verschwindet allerdings mit dem Gebrauch.",
+      "source": "Please keep it in sunlight and fresh air for a few days.",
+      "source context": "These features show the genuine origin of our leather satchels and messengers bags, they form part of the bag and do not affect its durability. Pure leather may smell a little when it is fresh but the smell will go away with use."
+   },
+   {
+      "wrong translation": "Der Fahrer holt es ab und wird es so schnell wie möglich liefern.",
+      "correct translation": "Der Fahrer holt sie ab und wird sie so schnell wie möglich liefern.",
+      "context": "Leider scheint Ihre ursprüngliche Bestellung versehentlich verschüttet worden zu sein, deshalb musste mein Kollege eine neue Bestellung aufgeben. Die neue Bestellung ist #NUMBER#, und sie wird in knapp 20 Minuten da sein.",
+      "reference": "Der Fahrer holt sie gerade ab und liefert so schnell wie möglich.",
+      "reference context": "Es tut mir leid, aber es sieht so aus, als ob Ihre ursprüngliche Bestellung versehentlich verschüttet wurde; aus diesem Grund musste mein Kollege eine neue Bestellung aufgeben. Diese neue Bestellung hat die Nummer #NUMBER# und wird in nur 20 Minuten dort sein.",
+      "source": "The rider is picking it up and will delivery asap.",
+      "source context": "I am sorry but it seems your original order was accidentally spilled, that is why my colleague had to make a new order. The new order is order #NUMBER# and it will be there in just 20 minutes."
+   },
+   {
+      "wrong translation": "Er erhält die normale Enzymaktivität und wasserhaltende Kapazität aufrecht, um für gesunde Elastizität beim Zusammendrücken zu sorgen.",
+      "correct translation": "Es erhält die normale Enzymaktivität und wasserhaltende Kapazität aufrecht, um für gesunde Elastizität beim Zusammendrücken zu sorgen.",
+      "context": "Hohe Konzentrationen von 5 besonders wichtigen Aminosäuren im Futter, die wesentlich für den Aufbau von Muskelgewebe sind. Chondroitin ist für die Knorpelelastizität wesentlich.",
+      "reference": "Es erhält die normale Enzymaktivität und Wasserspeicherkapazität und bietet so eine gesunde Widerstandskraft gegen Stauchung.",
+      "reference context": "Hohe Anteile an 5 besonderen diätetischen Aminosäuren, die für den Aufbau von Muskelgewebe essenziell sind. Chondroitin ist für die Widerstandskraft von Knorpel unentbehrlich.",
+      "source": "It maintains normal enzymatic activity and water-holding capacity to provide healthy resistance to compression.",
+      "source context": "High levels of 5 particular dietary amino acids, essential for the production of muscle tissue. Chondroitin is essential for the resilience of cartilage."
+   },
+   {
+      "wrong translation": "Aber alle waren so glücklich, dass es stattfinden konnte, wo so viele Weihnachtsveranstaltungen abgesagt wurden, weil wieder einmal eine weitere Covid-Variante am Horizont erschien.",
+      "correct translation": "Aber alle waren so glücklich, dass sie stattfinden konnte, wo so viele Weihnachtsveranstaltungen abgesagt wurden, weil wieder einmal eine weitere Covid-Variante am Horizont erschien.",
+      "context": "Ihr Bruder (knapp zwei) musste überredet werden, nicht mit dem Jesuskind durchzugehen. Daher herrschte das übliche milde Chaos, das bei jeder Zusammenkunft von Kleinkindern ausbricht.",
+      "reference": "Doch jeder war so froh, dass es stattfand, nachdem so viele andere Weihnachtsfeiern abgesagt wurden, weil eine erneute Covid-Variante schon am Horizont auftauchte.",
+      "reference context": "Ihr Bruder (im Alter von fast zwei Jahren) musste überzeugt werden, nicht mit dem kleinen Jesus wegzugehen. Es herrschte also das übliche dezente Chaos, das bei jeder Ansammlung von Kleinkindern anzutreffen ist.",
+      "source": "But everyone was so pleased that it had gone ahead when so many other Christmas events have been cancelled as yet another Covid variant hove into view.",
+      "source context": "Her brother (nearly two) had to be persuaded not to walk off with the baby Jesus. So there was the usual gentle chaos that attends any gathering of toddlers."
+   },
+   {
+      "wrong translation": "Es wurde in einem Dienstprogramm entdeckt, das auf Cloud-Servern und in Unternehmenssoftware in Industrie und Behörden allgegenwärtig ist.",
+      "correct translation": "Sie wurde in einem Dienstprogramm entdeckt, das auf Cloud-Servern und in Unternehmenssoftware in Industrie und Behörden allgegenwärtig ist.",
+      "context": "Er sagte am Freitag morgen, dass der Fehler in den 12 Stunden, seit seine Existenz bekannt gegeben wurde, „komplett zur Waffe gemacht“ wurde, was bedeutet, dass Straftäter Tools zu seiner Ausnutzung entwickelt und verteilt haben. Der Fehler könnte die schwerwiegendste Computer-Schwachstelle seit Jahren sein.",
+      "reference": "Sie wurde in einem Dienstprogramm entdeckt, das in Cloud-Servern und Unternehmenssoftware, die in der Industrie in bei Behörden verwendet wird, allgegenwärtig ist.",
+      "reference context": "Er teilte am Freitagmorgen mit, dass der Programmfehler in den 12 Stunden seit seiner Bekanntmachung „vollständig zur Waffe umfunktioniert“ wurde, also dass Übeltäter Tools zu deren Ausnutzung entwickelt und verteilt haben. Die Schwachstelle ist vielleicht die schlimmste Computer-Sicherheitslücke, die seit Jahren festgestellt wurde.",
+      "source": "It was uncovered in a utility that's ubiquitous in cloud servers and enterprise software used across industry and government.",
+      "source context": "He said Friday morning that in the 12 hours since the bug's existence was disclosed that it had been \"fully weaponised,\" meaning malefactors had developed and distributed tools to exploit it. The flaw may be the worst computer vulnerability discovered in years."
+   },
+   {
+      "wrong translation": "Wenn er nicht behoben wird, bietet er Kriminellen, Spitzeln und Programmierneulingen gleichermaßen einfachen Zugriff auf interne Netzwerke, wo sie neben vielen anderen Möglichkeiten Daten plündern, Malware einführen und kritische Informationen löschen können.",
+      "correct translation": "Wenn sie nicht behoben wird, bietet sie Kriminellen, Spitzeln und Programmierneulingen gleichermaßen einfachen Zugriff auf interne Netzwerke, wo sie neben vielen anderen Möglichkeiten Daten plündern, Malware einführen und kritische Informationen löschen können.",
+      "context": "Der Fehler könnte die schwerwiegendste Computer-Schwachstelle seit Jahren sein. Es wurde in einem Dienstprogramm entdeckt, das auf Cloud-Servern und in Unternehmenssoftware in Industrie und Behörden allgegenwärtig ist.",
+      "reference": "Sofern nicht behoben, gewährt sie Kriminellen, Spionen und Programmierneulingen leichten Zugriff auf interne Netzwerke, aus denen sie wertvolle Daten rauben, Malware einpflanzen, essenzielle Informationen löschen und viel mehr tun können.",
+      "reference context": "Die Schwachstelle ist vielleicht die schlimmste Computer-Sicherheitslücke, die seit Jahren festgestellt wurde. Sie wurde in einem Dienstprogramm entdeckt, das in Cloud-Servern und Unternehmenssoftware, die in der Industrie in bei Behörden verwendet wird, allgegenwärtig ist.",
+      "source": "Unless it is fixed, it grants criminals, spies and programming novices alike easy access to internal networks where they can loot valuable data, plant malware, erase crucial information and much more.",
+      "source context": "The flaw may be the worst computer vulnerability discovered in years. It was uncovered in a utility that's ubiquitous in cloud servers and enterprise software used across industry and government."
+   },
+   {
+      "wrong translation": "Sie ist auf Millionen von Servern installiert, und Experten sagen, dass ein Ausfall tagelang nicht bemerkt werden könnte.",
+      "correct translation": "Es ist auf Millionen von Servern installiert, und Experten sagen, dass ein Ausfall tagelang nicht bemerkt werden könnte.",
+      "context": "Cyberangriffe gelten heute als größte Bedrohung der finanziellen Stabilität. „Ich könnte kaum ein Unternehmen nennen, das nicht bedroht ist“, sagte Joe Sullivan, Chef-Sicherheitsmanager von Cloudflare, dessen Online-Infrastruktur Websites vor böswilligen Angreifern schützt.",
+      "reference": "Auf zahllosen Server ist sie installiert, und Experten sind der Meinung, dass die Auswirkungen erst nach mehreren Tagen zu bemerken sind.",
+      "reference context": "Cyberangriffe werden in der Zwischenzeit als die größte Bedrohung für eine finanzielle Stabilität angesehen. „Es ist fast unmöglich, ein Unternehmen zu nennen, das nicht in Gefahr ist“, sagte Joe Sullivan, leitender Sicherheitsbeauftragter bei Cloudflare, dessen Online-Infrastruktur Websites vor bösartigen Akteuren schützt.",
+      "source": "Untold millions of servers have it installed, and experts said the fallout would not be known for several days.",
+      "source context": "Cyber attacks are now seen as the biggest threat to financial stability. \"I'd be hard-pressed to think of a company that's not at risk,\" said Joe Sullivan, chief security officer for Cloudflare, whose online infrastructure protects websites from malicious actors."
+   },
+   {
+      "wrong translation": "Sie trennt unsere Hinterhöfe.",
+      "correct translation": "Er trennt unsere Hinterhöfe.",
+      "context": "Meine Nachbarn bekamen vor etwa drei Jahren einen Hund. Zwischen diesen Nachbarn und mir liegt ein Zaun.",
+      "reference": "Er trennt unsere Gärten.",
+      "reference context": "Meine Nachbarn holten sich vor etwa drei Jahren einen Hund. Diese Nachbarn und ich haben einen gemeinsamen Zaun.",
+      "source": "It separates our back yards.",
+      "source context": "My neighbors got a dog about three years ago. These neighbors and I share a fence."
+   },
+   {
+      "wrong translation": "Sie hat weniger als $200 gekostet, aber ich bin arm, also musste ich eine Weile sparen.",
+      "correct translation": "Er hat weniger als $200 gekostet, aber ich bin arm, also musste ich eine Weile sparen.",
+      "context": "Das kann ihnen ernsthaft schaden und ein Tier sogar töten. Der Lautsprecher ist übrigens ein tragbares PA-System von JYX, falls es jemanden interessiert.",
+      "reference": "Er hat unter 200 Dollar gekostet, und da ich arm war, muss ich ein bisschen dafür sparen.",
+      "reference context": "Diese können einem Tier ernste Schäden zufügen oder es sogar töten. Der Lautsprecher ist übrigens eine tragbare Beschallungsanlage von JYX, falls jemand interessiert ist.",
+      "source": "It was under $200, but I'm poor so I had to save for a bit.",
+      "source context": "This can seriously harm and even kill an animal. Also, the speaker is a portable pa system from JYX, if anyone is interested."
+   },
+   {
+      "wrong translation": "Er hat aufgrund des Beginns der Prüfungszeit (im Januar 2020) und dann wegen der Pandemie und den Ausgangssperren an Intensität verloren.",
+      "correct translation": "Sie hat aufgrund des Beginns der Prüfungszeit (im Januar 2020) und dann wegen der Pandemie und den Ausgangssperren an Intensität verloren.",
+      "context": "Die Studentengewerkschaft All Assam Student‘s Union (AASU), eine weitere Schlüsselfigur bei den Protesten, organisierte eine Gedenkveranstaltung im Schulhof der Hatigaon Higher Secondary School. Bei seiner Ansprache aus diesem Anlass sagte der Chefberater von ASUU Samujjal Kumar Bhattacharya, „Es ist falsch zu sagen, dass die Anti-CAA-Bewegung ausgestorben ist.",
+      "reference": "Sie hat wegen des Beginns der Untersuchungen (im Januar 2020) und anschließend wegen der Pandemie und den Abriegelungen an Intensität verloren.",
+      "reference context": "Die Studentenvereinigung AASU (All Assam Students' Union), ein weiterer Hauptakteur bei den Unruhen, organisierte ein Gedenken auf dem Hof der Hatigaon Higher Secondary School. Zu diesem Anlass sagte der Chefberater der AASU, Samujjal Kumar Bhattacharya, „Es ist falsch zu sagen, dass die Bewegung gegen das Anpassungsgesetz zur Staatsbürgerschaft tot ist.",
+      "source": "It had lost its intensity due to the commencement of examinations (in January 2020) and then the pandemic and lockdowns.",
+      "source context": "All Assam Students' Union (AASU), another key player in the stir, organised a memorial at the Hatigaon Higher Secondary School playground. Speaking on the occasion, AASU chief advisor Samujjal Kumar Bhattacharya said, \"It is wrong to say that the anti-CAA movement has died out."
+   }
+]
