@@ -1,19 +1,19 @@
-# Master's Thesis: Scoring of pronoun translation mistakes with ChatGPT
+# Master's Thesis: Scoring pronoun translation mistakes with ChatGPT
 
-To explore whether the document-level version of [GEMBA](https://github.com/MicrosoftTranslator/GEMBA) is suitable for evaluating MT output at the document-level, this code was written to measure its sensitivity to discourse-level translation errors (see chapter 6.5 in thesis).
+To explore whether the document-level version of [GEMBA](https://github.com/MicrosoftTranslator/GEMBA) is suitable for evaluating MT output at the document-level, this code was written to measure its sensitivity to discourse-level translation errors (see chapter 6.5 in thesis). Specifically, contrasting translations (one with a pronoun mistranslation and one without an error) are scored to see whether the higher score is correctly given to the translation without an error.
 
 ## Input
-The program takes as input the data in the ```data/``` directory which contains original human reference translations (WMT newstest 2021 and generaltest 2022) along with perturbed reference translations, where mistranslations of the English pronoun "it" were added. References (both perturbed and original) are scored against a different reference translation.
+The program takes as input the data in the ```data/``` directory which contains original human reference translations (WMT newstest 2021 and generaltest 2022) along with perturbed reference translations, where mistranslations of the English pronoun "it" were added. References (both perturbed and original) are scored against a second reference translation.
 
 To obtain the results reported in the thesis, the translations were scored as follows:
 
-Newstest 2021:
+Newstest 2021 data:
 * Reference A against Reference B
 * Reference B against Reference A
 * Reference C against Reference D
 * Reference D against Reference C
 
-Generaltest 2022:
+Generaltest 2022 data:
 * Reference A against Reference B
 
 ## Usage
@@ -33,7 +33,7 @@ The flag ```--prompt-type``` can be used to select either of the two prompts. Th
 To get scores for all the data (perturbed and original references scored against a secondary reference translation) used in the thesis, simply run the scoring bash script from the main directory:
 
 ```bash 
-score.sh
+bash score.sh
 ```
 
 ## Responses
