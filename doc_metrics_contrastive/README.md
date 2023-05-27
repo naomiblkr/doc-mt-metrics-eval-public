@@ -20,7 +20,7 @@ For each perturbed and unchanged reference, the average of all segment-level sco
 
 ## Reproduce results
 
-To reproduce results reported in my thesis, first install the respective version of COMET. The scripts assume that a GPU is available.
+To reproduce results reported in my thesis, first install the respective version of COMET. The scripts assume that a GPU is available. For both COMET and Doc-COMET the model ```wmt21-comet-mqm``` is utilized.
 
 For computing Doc-COMET scores, move ```doc_comet_score.py```and ```score_doc_comet.sh``` as well as the ```data_pro_errors/``` folder into the main Doc-COMET directory.
 
