@@ -1,30 +1,30 @@
-prompt type,score
-SQM_last_sent,90,"90. The machine translation accurately conveys the meaning of the source text and is mostly fluent, with only minor errors in word choice and grammar."
-SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor differences in wording and sentence structure compared to the human reference."
-SQM_last_sent,90,"90. The machine translation is mostly fluent and preserves most of the meaning of the source text. There are some minor differences in wording and phrasing, but the overall message is conveyed accurately."
-SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor differences in word choice and sentence structure compared to the human reference."
-SQM_last_sent,90,"90. 
+prompt type,score,response
+doc_SQM,90,"90. The machine translation accurately conveys the meaning of the source text and is mostly fluent, with only minor errors in word choice and grammar."
+doc_SQM,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor differences in wording and sentence structure compared to the human reference."
+doc_SQM,90,"90. The machine translation is mostly fluent and preserves most of the meaning of the source text. There are some minor differences in wording and phrasing, but the overall message is conveyed accurately."
+doc_SQM,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor differences in word choice and sentence structure compared to the human reference."
+doc_SQM,90,"90. 
 
 The machine translation is very close to the human reference, with only minor differences in word choice and sentence structure. The meaning is preserved and the grammar is mostly correct. The only issue is the use of ""UC Davis-Professor"" instead of ""Professor an der Universität im kalifornischen Davis"", which is a more natural way of expressing the same idea in German."
-SQM_last_sent,85,"85. The machine translation preserves most of the meaning and is mostly fluent, but there are some minor errors in word choice and sentence structure. For example, ""Mr. Callaghan"" should be translated as ""Herr Callaghan"" and ""KMU-Bürgschaftsprogramm"" should be translated as ""Garantiemaßnahme für Klein- und Mittelunternehmen"". Additionally, the sentence structure in the last part of the translation is slightly awkward."
-SQM_last_sent,85,"85. The machine translation mostly preserves the meaning of the source text and is mostly fluent, but there are some minor errors in word choice and sentence structure."
-SQM_last_sent,90,"90. 
+doc_SQM,85,"85. The machine translation preserves most of the meaning and is mostly fluent, but there are some minor errors in word choice and sentence structure. For example, ""Mr. Callaghan"" should be translated as ""Herr Callaghan"" and ""KMU-Bürgschaftsprogramm"" should be translated as ""Garantiemaßnahme für Klein- und Mittelunternehmen"". Additionally, the sentence structure in the last part of the translation is slightly awkward."
+doc_SQM,85,"85. The machine translation mostly preserves the meaning of the source text and is mostly fluent, but there are some minor errors in word choice and sentence structure."
+doc_SQM,90,"90. 
 
 The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording and sentence structure, but the overall message is conveyed accurately."
-SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor errors such as the use of ""er"" instead of ""es"" in the last sentence."
-SQM_last_sent,90,"90. 
+doc_SQM,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor errors such as the use of ""er"" instead of ""es"" in the last sentence."
+doc_SQM,90,"90. 
 
 The machine translation preserves most of the meaning and is mostly fluent. The only difference from the human reference is the use of ""zwei"" (two) versus ""beide"" (both), which does not significantly affect the meaning."
-SQM_last_sent,90,"90. 
+doc_SQM,90,"90. 
 
 The machine translation preserves most of the meaning and is mostly fluent. The only difference from the human reference is the use of ""Polizeiaufsichtsbehörde"" instead of ""Polizeiaufsicht"", which is a minor variation in wording."
-SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in word choice and sentence structure, but overall the translation accurately conveys the information in the source text."
-SQM_last_sent,90,"90. 
+doc_SQM,90,"90. The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in word choice and sentence structure, but overall the translation accurately conveys the information in the source text."
+doc_SQM,90,"90. 
 
 The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording and sentence structure, but the overall message is conveyed accurately."
-SQM_last_sent,90,"90. 
+doc_SQM,90,"90. 
 
 The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording and grammar compared to the human reference, but they do not significantly affect the overall understanding of the sentence."
-SQM_last_sent,90,"90. 
+doc_SQM,90,"90. 
 
 The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording and phrasing, but the overall message is conveyed accurately."

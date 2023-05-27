@@ -1,22 +1,22 @@
-prompt type,score
-DA_last_sent,90,"90. 
+prompt type,score,response
+doc_DA,90,"90. 
 
 The machine translation is very close to the human reference, with only a few minor errors in word choice and grammar. The meaning of the sentence is preserved and it is fluent."
-DA_last_sent,90,"90. 
+doc_DA,90,"90. 
 
 The machine translation is very good and captures the meaning of the original sentence accurately. However, there are a few minor errors in grammar and word choice that prevent it from being a perfect translation. For example, ""Verwaltungen"" should be ""dezentralen Verwaltungen"" to match the original sentence, and ""Er sagte"" should be ""Sie sagte"" to match the subject of the sentence."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the source text and is grammatically correct. However, there are some minor differences in word choice and sentence structure that could be improved for even greater fluency."
-DA_last_sent,90,"90. The machine translation is very close to the human reference, with only minor differences in wording and phrasing. The meaning and grammar are preserved and the translation is fluent."
-DA_last_sent,90,"90. The machine translation is very close to the human reference, with only a few minor differences in word choice and sentence structure. The meaning and grammar are preserved well, and the overall fluency is good."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the source text and uses appropriate grammar and vocabulary. However, there are some minor differences in wording and sentence structure compared to the human reference."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the original sentence and uses appropriate grammar and vocabulary. However, there are some minor differences in phrasing and word choice that could be improved upon."
-DA_last_sent,90,"90. 
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the source text and is grammatically correct. However, there are some minor differences in word choice and sentence structure that could be improved for even greater fluency."
+doc_DA,90,"90. The machine translation is very close to the human reference, with only minor differences in wording and phrasing. The meaning and grammar are preserved and the translation is fluent."
+doc_DA,90,"90. The machine translation is very close to the human reference, with only a few minor differences in word choice and sentence structure. The meaning and grammar are preserved well, and the overall fluency is good."
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the source text and uses appropriate grammar and vocabulary. However, there are some minor differences in wording and sentence structure compared to the human reference."
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the original sentence and uses appropriate grammar and vocabulary. However, there are some minor differences in phrasing and word choice that could be improved upon."
+doc_DA,90,"90. 
 
 The machine translation accurately conveys the meaning of the original sentence and is grammatically correct. However, there are some minor differences in wording and phrasing compared to the human reference translation."
-DA_last_sent,90,"90. 
+doc_DA,90,"90. 
 
 The machine translation is very close to the human reference, with only minor differences in wording and grammar. The meaning and fluency are preserved, and the overall message is conveyed accurately."
-DA_last_sent,90,"90. 
+doc_DA,90,"90. 
 
 The machine translation is very close to the human reference, with only minor differences in wording (""verschiedene Belege"" instead of ""einige Beweise"" and ""Smart Working"" instead of ""Telearbeit""). The meaning and grammar are preserved and the sentence is fluent."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the source text and uses appropriate grammar and vocabulary. However, there are some minor differences in phrasing and word choice that could be improved upon."
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the source text and uses appropriate grammar and vocabulary. However, there are some minor differences in phrasing and word choice that could be improved upon."

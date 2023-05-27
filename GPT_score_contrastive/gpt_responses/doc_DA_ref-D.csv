@@ -1,16 +1,16 @@
-prompt type,score
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the original sentence and is grammatically correct. However, there are some minor differences in word choice and sentence structure compared to the human reference."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the source text and is grammatically correct. However, there are some minor differences in word choice and sentence structure compared to the human reference translation."
-DA_last_sent,90,"90. 
+prompt type,score,response
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the original sentence and is grammatically correct. However, there are some minor differences in word choice and sentence structure compared to the human reference."
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the source text and is grammatically correct. However, there are some minor differences in word choice and sentence structure compared to the human reference translation."
+doc_DA,90,"90. 
 
 The machine translation is very close to the human reference, with only minor differences in wording and grammar. The meaning of the sentence is preserved and it is fluent."
-DA_last_sent,90,"90. The machine translation is very close to the human reference, with only minor differences in wording and grammar. The meaning is preserved and the translation is fluent."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the source text and uses appropriate grammar and vocabulary. However, there are some minor differences in phrasing and word choice that could be improved upon."
-DA_last_sent,85,85
-DA_last_sent,90,"90. 
+doc_DA,90,"90. The machine translation is very close to the human reference, with only minor differences in wording and grammar. The meaning is preserved and the translation is fluent."
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the source text and uses appropriate grammar and vocabulary. However, there are some minor differences in phrasing and word choice that could be improved upon."
+doc_DA,85,85
+doc_DA,90,"90. 
 
 The machine translation is very good and captures the meaning of the original sentence accurately. However, there are a few minor errors in grammar and word choice that could be improved upon. For example, ""Vernehmungsbefehl"" should be translated as ""questioning warrant"" instead of ""interrogation warrant"". Additionally, the use of ""feststellte"" instead of ""betonte"" in the second sentence changes the tone slightly and could be seen as less forceful. Overall, the translation is very close to the human reference and conveys the same message effectively."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the original sentence and uses appropriate vocabulary and grammar. However, there are some minor differences in phrasing and word choice that could be improved upon."
-DA_last_sent,85,"85. The machine translation accurately conveys the meaning of the source text and is mostly fluent, but there are some minor errors in grammar and word choice. For example, ""Kleingewerbesektor"" should be ""kleine Unternehmen"" and ""ins Leere laufe"" should be ""nicht in Schwung komme"". Additionally, the machine translation uses ""wahrscheinlich"" (probably) which is not present in the source text."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the source text and is grammatically correct. However, there are some minor differences in word choice and sentence structure compared to the human reference translation."
-DA_last_sent,90,"90. The machine translation accurately conveys the meaning of the source text and uses appropriate grammar and vocabulary. However, there are some minor differences in phrasing and word choice that could be improved upon."
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the original sentence and uses appropriate vocabulary and grammar. However, there are some minor differences in phrasing and word choice that could be improved upon."
+doc_DA,85,"85. The machine translation accurately conveys the meaning of the source text and is mostly fluent, but there are some minor errors in grammar and word choice. For example, ""Kleingewerbesektor"" should be ""kleine Unternehmen"" and ""ins Leere laufe"" should be ""nicht in Schwung komme"". Additionally, the machine translation uses ""wahrscheinlich"" (probably) which is not present in the source text."
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the source text and is grammatically correct. However, there are some minor differences in word choice and sentence structure compared to the human reference translation."
+doc_DA,90,"90. The machine translation accurately conveys the meaning of the source text and uses appropriate grammar and vocabulary. However, there are some minor differences in phrasing and word choice that could be improved upon."
