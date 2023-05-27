@@ -1,0 +1,68 @@
+Temperature: 0
+Prompt type: doc_DA
+
+Score corrupted ref A on ref B (newstest 2021):
+90.0
+
+Score ref A on ref B (newstest 2021):
+90.0
+
+Score corrupted ref B on ref A (newstest 2021):
+90.0
+
+Score ref B on ref A (newstest 2021):
+90.33333333333333
+
+Score corrupted ref C on ref D (newstest 2021):
+90.0
+
+Score ref C on ref D (newstest 2021):
+90.0
+
+Score corrupted ref D on ref C (newstest 2021):
+88.63636363636364
+
+Score ref D on ref C (newstest 2021):
+89.0909090909091
+
+
+Score corrupted ref A on ref B (generaltest 2022):
+89.16666666666667
+
+Score ref A on ref B (generaltest 2022):
+89.79166666666667
+
+
+Temperature: 0
+Prompt type: doc_SQM
+
+
+Score corrupted Ref A on Ref B (newstest 2021):
+86.36363636363636
+
+Score ref A on Ref B (newstest 2021):
+88.18181818181819
+
+Score corrupted Ref B on Ref A (newstest 2021):
+89.33333333333333
+
+Score ref B on ref A (newstest 2021):
+88.66666666666667
+
+Score corrupted ref C on ref D (newstest 2021):
+88.66666666666667
+
+Score ref C on ref D (newstest 2021):
+89.66666666666667
+
+Score corrupted ref D on ref C (newstest 2021):
+85.45454545454545
+
+Score ref D on ref C (newstest 2021):
+87.27272727272727
+
+Score corrupted ref A on ref B (generaltest 2022):
+87.29166666666667
+
+Score ref A on ref B (generaltest 2022):
+87.70833333333333

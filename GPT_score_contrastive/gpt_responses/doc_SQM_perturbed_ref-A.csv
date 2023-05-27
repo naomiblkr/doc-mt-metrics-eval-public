@@ -1,0 +1,28 @@
+prompt type,score
+SQM_last_sent,70,"Score: 70. 
+
+The machine translation mostly preserves the meaning of the source text, but there are some errors in the translation. For example, ""public grounds"" is translated as ""öffentlicher Boden"" instead of ""öffentlicher Grund"", and ""Princess Anne County courthouse"" is translated as ""Gerichtsgebäude Anne County"" instead of ""Gerichtsgebäude von Princess Anne County"". Additionally, the sentence structure is not entirely fluent in German."
+SQM_last_sent,85,"85. 
+
+The machine translation preserves most of the meaning and is mostly fluent. However, there are some minor errors in word choice and grammar, such as ""Flug- und Reiseindustrie"" instead of ""Luftfahrt- und Reiseindustrie"" and ""Er sagte"" instead of ""Sie sagte""."
+SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor grammatical errors."
+SQM_last_sent,90,"90. 
+
+The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording and sentence structure, but the overall message is conveyed accurately."
+SQM_last_sent,85,"85. 
+
+The machine translation preserves most of the meaning and is mostly fluent, but there are a few errors in grammar and word choice. For example, ""geographisch"" should be ""territorial"" and ""Sie hat auch zum Ziel"" should be ""Er zielt auch darauf ab""."
+SQM_last_sent,90,"90. 
+
+The machine translation preserves most of the meaning and is mostly fluent. However, there are a few minor differences in wording and sentence structure compared to the human reference. For example, ""ohne triftigen Grund"" (without good reason) in the human reference is translated as ""ohne Angabe von Gründen"" (without stating reasons) in the machine translation. Additionally, the sentence ""Er ergänzte, dass der Aufenthalt im Land ausschließlich Passagieren mit einem Nachweis eines solchen Tests gestattet ist"" (He added that only passengers with proof of such a test are allowed to stay in the country) in the machine translation is slightly different from the human reference ""Sie fügten hinzu, dass nur Passagiere, die ein Zertifikat für einen solchen Test haben, ins Land gelassen werden"" (They added that only passengers who have a certificate for such a test will be allowed in the country)."
+SQM_last_sent,85,"85. 
+
+The machine translation preserves most of the meaning and is mostly fluent. However, there are some minor errors in word choice and sentence structure that make the translation slightly less fluent than the human reference. For example, ""hörte es sich jedoch an"" is not the most natural way to translate ""appeared to say"" and ""Er sollte unbedingt entfernt werden"" is not an accurate translation of ""Surely it should come down."" Overall, the translation is still very good and conveys the main message accurately."
+SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording and sentence structure, but the overall message is conveyed accurately."
+SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor errors in grammar and word choice."
+SQM_last_sent,85,"85. 
+
+The machine translation preserves most of the meaning of the original sentence and is mostly fluent. However, there are some minor differences in word choice and phrasing compared to the human reference. For example, ""verschiedene Belege"" instead of ""einige Beweise"" and ""Smart Working"" instead of ""Telearbeit""."
+SQM_last_sent,90,"90. 
+
+The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording, but the overall message is conveyed accurately."

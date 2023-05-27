@@ -1,0 +1,24 @@
+prompt type,score
+SQM_last_sent,80,"Score: 80. 
+
+The machine translation mostly preserves the meaning of the source text, but there are some minor errors in the translation. For example, ""public grounds"" is translated as ""öffentlicher Boden"" instead of ""öffentlicher Grund"", and ""Princess Anne County courthouse"" is translated as ""Gerichtsgebäude Anne County"" instead of ""Gerichtsgebäude von Princess Anne County"". Additionally, the sentence structure is slightly different from the human reference, but the overall fluency is good."
+SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor differences from the human reference."
+SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in word choice and sentence structure, but the overall message is conveyed accurately."
+SQM_last_sent,90,"90. 
+
+The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording and sentence structure, but the overall message is conveyed accurately."
+SQM_last_sent,85,"85. 
+
+The machine translation preserves most of the meaning and is mostly fluent. However, there are some minor errors in grammar and word choice, such as ""geographisch"" instead of ""territorial"" and ""so im Bericht"" instead of ""so der Bericht""."
+SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor differences in wording and sentence structure compared to the human reference."
+SQM_last_sent,90,"90. 
+
+The machine translation accurately conveys the meaning of the source text and the human reference, with only minor differences in wording. The sentence structure is also correct and fluent. However, there are a few small errors, such as ""hörte es sich jedoch an"" instead of ""schien"" and ""Lügen"" instead of ""Klischees"". Overall, the translation is of high quality and would be easily understandable to a German reader."
+SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording and phrasing, but the overall message is conveyed accurately."
+SQM_last_sent,90,"90. The machine translation preserves most of the meaning and is mostly fluent, with only minor errors in word choice and grammar."
+SQM_last_sent,85,"85. 
+
+The machine translation preserves most of the meaning of the original sentence and is mostly fluent. However, there are some minor differences in word choice and phrasing that deviate from the human reference. For example, ""verschiedene Belege"" (various evidence) instead of ""einige Beweise"" (some evidence) and ""Smart Working"" instead of ""Telearbeit"" (remote work)."
+SQM_last_sent,90,"90. 
+
+The machine translation preserves most of the meaning and is mostly fluent. There are some minor differences in wording, but the overall message is conveyed accurately."
