@@ -1,0 +1,16 @@
+Score Original-Doc-System
+System-level score: 90.78809747934316
+
+Score Line-Doc-System
+System-level score: 91.76591075347476
+
+Score Line-Doc-System v2
+With adding the last two sentences of each document again to ensure equal weighting
+System score: 91.69345069089532
+
+Score Sent-System
+System-level score: 91.82728031726153
+
+Score Sent-System v2
+With adding last two sentences of document again to ensure equal weighting
+91.78079213536252
