@@ -16,6 +16,8 @@ Newstest 2021 data:
 Generaltest 2022 data:
 * Reference A against Reference B
 
+For each perturbed and unchanged reference, the average of all segment-level scores is computed.
+
 ## Usage
 
 Update the API key in ```api.py```.
