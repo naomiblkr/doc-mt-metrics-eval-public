@@ -32,7 +32,6 @@ The script ```score_distribution.py``` computes the distribution of segment-leve
 
 The script ```compare_scores.py``` extracts sentences where sentence-level GEMBA and document-level GEMBA assigned scores with large discrepancies (score differences of 25 and more than 40). The respective hypothesis and source sentence along with the scores assigned by the two metrics are saved in json files the ```score_distribution/``` directory.
 
-
 ## 5: Scoring Pronoun Mistranslations with Doc-GEMBA
 
 In the directory ```GPT_score_contrastive/```, the required code to score contrasting translations (i.e. the same translations with and without pronoun errors) can be found. For more information and instructions on how to reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/GPT_score_contrastive/README.md) in the respective directory.
