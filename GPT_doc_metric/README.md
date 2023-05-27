@@ -12,11 +12,17 @@ To obtain the results reported in my thesis, I used the OpenAI API, thus if usin
 
 ## Usage
 
+Create a virtual environment and install requirements.txt with with python >= 3.8.
+
+```bash
+pip install -r requirements.txt
+```
+
 Before running the program, update credentials (API key) for API access in ```CREDENTIALS.py```.
 
 Example program call:
 
-``` 
+```bash
 python3 main.py --src data/doc_orig_system/doc_source.src \
 --hyp data/doc_orig_system/doc_hypothesis.hyp --ref  data/doc_orig_system/doc_reference.ref \
 --docids data/doc_orig_system/doc_ids_en-de.docid --prompt-type DA_doc

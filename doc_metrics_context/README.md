@@ -17,7 +17,7 @@ Install [Doc-MT-Metrics](https://github.com/amazon-science/doc-mt-metrics) accor
 
 Add ```score_doc-bert.py```, ```score_doc-prism.py```, ```score_doc-comet.py``` as well as ```corrupt_context.py``` to the directory of the corresponding metric.
 
-Please not that the doc-mt-metrics code base has been updated since the experiments were carried out, thus other minor changes might be required. 
+The doc-mt-metrics code base has been updated since the experiments were carried out, thus other minor changes might be required. 
 
 
 ### Example program calls to compute system-level correlations
