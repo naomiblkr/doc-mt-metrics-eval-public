@@ -22,7 +22,7 @@ Update the API key in ```api.py```.
 
 Example program call:
 
-```
+```bash
 python3 main.py --src data/newstest2021.en-de.src.en --hyp data/corrupted_news2021_refA.de \
     --ref data/newstest2021.en-de.ref.ref-B.de --indices data/idx_changes_news2021_refA.txt \
     --prompt-type doc_DA --save
@@ -32,8 +32,8 @@ The flag ```--prompt-type``` can be used to select either of the two prompts. Th
 
 To get scores for all the data (perturbed and original references scored against a secondary reference translation) used in the thesis, simply run the scoring bash script from the main directory:
 
-```
-bash score.sh
+```bash 
+score.sh
 ```
 
 ## Responses
