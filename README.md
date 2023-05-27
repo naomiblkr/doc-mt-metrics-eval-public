@@ -7,10 +7,10 @@ The directory ```pro_mistranslations/``` contains the code that was used to crea
 
 ## Context Usage in Document-level MT metrics
 
-The directory ```doc_metrics_experiments``` contains scripts used to examine context usage in the document-level MT metrics proposed in the paper
-[Embarrassingly Easy Document-Level MT Metrics: How to Convert Any Pretrained Metric Into a Document-Level Metric](https://statmt.org/wmt22/pdf/2022.wmt-1.6.pdf). For the experiments, I used [Doc-MT-Metrics](https://github.com/amazon-science/doc-mt-metrics) and made minor adjustments to corrupt the added context sentences before scores and correlations with human judgments are computed. The ```doc_metrics_experiments``` directory only contains the scripts I added and changed. Thus, to reproduce the results of my thesis, [Doc-MT-Metrics](https://github.com/amazon-science/doc-mt-metrics) needs to be installed and the script ```corrupt_context.py``` should be added to the main directory and ```score_doc-metrics.py``` should be replaced.
+The directory ```doc_metrics_experiments/``` contains scripts used to examine context usage in the document-level MT metrics proposed in the paper
+[Embarrassingly Easy Document-Level MT Metrics: How to Convert Any Pretrained Metric Into a Document-Level Metric](https://statmt.org/wmt22/pdf/2022.wmt-1.6.pdf). For the experiments, I used [Doc-MT-Metrics](https://github.com/amazon-science/doc-mt-metrics) and made minor adjustments to corrupt the added context sentences before scores and correlations with human judgments are computed. The ```doc_metrics_experiments/``` directory only contains the scripts I added and changed. Thus, to reproduce the results of my thesis, [Doc-MT-Metrics](https://github.com/amazon-science/doc-mt-metrics) needs to be installed and the scripts in the ```doc_metrics_experiments/``` directory need to be added.
 
-For more detailed instructions on how to reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/doc_metrics_context/README.md) in the ```doc_metrics_experiments``` folder.
+For more detailed instructions on how to reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/doc_metrics_context/README.md) in the ```doc_metrics_experiments/``` folder.
 
 ## Document-level GEMBA
 
