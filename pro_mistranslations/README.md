@@ -3,9 +3,9 @@
 
 To test the performance of automatic MT metrics on discourse-level phenomena, I created
 perturbed German translations of the English pronoun "it" in cases where the pronoun's antecedent
-is in a preceding sentence. To isolate this phenomena, i.e. to avoid the presence of other errors 
-that could impact the metric score, I used human reference translations from the WMT 2021 News test set
-and the WMT 2022 general test set.
+is in a preceding sentence. The errors were added to human reference translations (to avoid presence of other errors).
+
+Data from the WMT 2021 news testset the 2022 general testset was utilized (for which multiple human references are available).
 
 The perturbed version as well as the original reference can be scored against another human reference
 translation of the same source text (see directory ```data/references/```).
