@@ -1,6 +1,7 @@
 # ! usr/bin/bash
-# Assumes you are running from the main directory `GPT_doc_metric`
+# Assumes you are running from the directory `GPT_score_contrastive`
 # For SQM-based prompts, replace prompt-type
+
 
 echo $'----------------------------------------------------------'
 echo $'Scoring perturbed reference A on reference B (newstest 2021)'
