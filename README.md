@@ -13,7 +13,7 @@ The directory ```doc_metrics_context/``` contains scripts used to examine contex
 For more detailed instructions on how to reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/doc_metrics_context/README.md) in the ```doc_metrics_context/``` folder.
 
 ## 3: Scoring Pronoun Mistranslations with Doc-COMET (and COMET)
-The directory ```doc_metrics_contrastive/``` contains the scripts and data required to score the contrasting translations (pronoun mistranslations) created in part 1 with both [COMET](https://github.com/Unbabel/COMET) (i.e. the original, sentence-level version) and [Doc-COMET](https://github.com/amazon-science/doc-mt-metrics/tree/main/COMET). To reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/doc_comet_contrastive/README.md) in the ```doc_metrics_contrastive/``` directory.
+The directory ```doc_comet_contrastive/``` contains the scripts and data required to score the contrasting translations (pronoun mistranslations) created in part 1 with both [COMET](https://github.com/Unbabel/COMET) (i.e. the original, sentence-level version) and [Doc-COMET](https://github.com/amazon-science/doc-mt-metrics/tree/main/COMET). To reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/doc_comet_contrastive/README.md) in the ```doc_comet_contrastive/``` directory.
 
 ## 4: Document-level GEMBA (Correlations with Human Judgments)
 
