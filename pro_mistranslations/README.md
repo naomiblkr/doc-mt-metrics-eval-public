@@ -1,5 +1,5 @@
-# Master's Thesis: Creating perturbed pronoun translations
-## Peformance of MT metrics on discourse-level phenomena
+# Creating mistranslations of anaphoric "it"
+## Contrastive Evaluation of MT metrics on discourse-level phenomenon
 
 To test the performance of automatic MT metrics on discourse-level phenomena, I created
 perturbed German translations of the English pronoun "it" in cases where the pronoun's antecedent
