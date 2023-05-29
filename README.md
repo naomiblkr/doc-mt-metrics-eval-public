@@ -1,19 +1,19 @@
-# Master's Thesis on Evaluation of Document-level MT Metrics
+# Evaluation of Pre-trained Metrics and ChatGPT as Document-level MT Metrics
 
-This repository contains the code utilized for experiments and obtaining the results of my master's thesis.
+This repository contains code utilized for experiments in my master's thesis.
 
 ## 1: Creating Contrasting Translations (Pronoun Mistranslations)
-The directory ```pro_mistranslations/``` contains the code that was used to create pronoun mistranslations as well as the resulting data. See [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/pro_mistranslations/README.md) of the corresponding directory for more information.
+The directory ```pro_mistranslations/``` contains code that was used to create pronoun mistranslations as well as the resulting data. See [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/pro_mistranslations/README.md) of the corresponding directory for more information.
 
 ## 2: Context Usage in Document-level MT Metrics
 
 The directory ```doc_metrics_context/``` contains scripts used to examine context usage in the document-level MT metrics proposed in the paper
-[Embarrassingly Easy Document-Level MT Metrics: How to Convert Any Pretrained Metric Into a Document-Level Metric](https://statmt.org/wmt22/pdf/2022.wmt-1.6.pdf). For the experiments, I used [Doc-MT-Metrics](https://github.com/amazon-science/doc-mt-metrics) and made minor adjustments to corrupt the added context sentences before scores and correlations with human judgments are computed. The ```doc_metrics_context/``` directory only contains the scripts I added and changed. Thus, to reproduce the results of my thesis, [Doc-MT-Metrics](https://github.com/amazon-science/doc-mt-metrics) needs to be installed and the scripts in the ```doc_metrics_context/``` directory need to be added.
+[Embarrassingly Easy Document-Level MT Metrics: How to Convert Any Pretrained Metric Into a Document-Level Metric](https://statmt.org/wmt22/pdf/2022.wmt-1.6.pdf). For the experiments, I used [Doc-MT-Metrics](https://github.com/amazon-science/doc-mt-metrics) and made minor adjustments to corrupt the added context sentences before scores and correlations with human judgments are computed. The ```doc_metrics_context/``` directory only contains the scripts I added and changed. Thus, to reproduce the results of my thesis, Doc-MT-Metrics needs to be installed before utilizing the scripts in the ```doc_metrics_context/``` directory.
 
 For more detailed instructions on how to reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/doc_metrics_context/README.md) in the ```doc_metrics_context/``` folder.
 
 ## 3: Scoring Pronoun Mistranslations with Doc-COMET (and COMET)
-The directory ```doc_metrics_contrastive/``` contains the scripts and data required to score the contrasting translations (pronoun mistranslations) created in part 1 with both [COMET](https://github.com/Unbabel/COMET) (i.e. the original version) and [Doc-COMET](https://github.com/amazon-science/doc-mt-metrics/tree/main/COMET). To reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/doc_comet_contrastive/README.md) in the ```doc_metrics_contrastive/``` directory.
+The directory ```doc_metrics_contrastive/``` contains the scripts and data required to score the contrasting translations (pronoun mistranslations) created in part 1 with both [COMET](https://github.com/Unbabel/COMET) (i.e. the original, sentence-level version) and [Doc-COMET](https://github.com/amazon-science/doc-mt-metrics/tree/main/COMET). To reproduce results, see [README](https://github.com/naomiblkr/doc-mt-metrics-eval/blob/main/doc_comet_contrastive/README.md) in the ```doc_metrics_contrastive/``` directory.
 
 ## 4: Document-level GEMBA (Correlations with Human Judgments)
 
