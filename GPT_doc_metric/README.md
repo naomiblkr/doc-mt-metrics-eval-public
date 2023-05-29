@@ -1,4 +1,4 @@
-# Master's Thesis: ChatGPT as a document-level MT metric – Scoring output of sentence- and document-level MT systems
+# ChatGPT as a document-level MT metric – Scoring output of sentence- and document-level MT systems
 
 This code is built upon the [GEMBA](https://github.com/MicrosoftTranslator/GEMBA) code.
 Specifically, the scripts ```gpt_api.py```, ```cache.py``` and ```parse_gpt_answer.py``` are used
