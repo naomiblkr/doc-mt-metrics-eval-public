@@ -5,12 +5,12 @@ To test the performance of automatic MT metrics on discourse-level phenomena, I 
 perturbed German translations of the English pronoun "it" in cases where the pronoun's antecedent
 is in a preceding sentence. The errors were added to human reference translations (to avoid presence of other errors).
 
-Data from the WMT 2021 news testset the 2022 general testset was utilized (for which multiple human references are available).
+Data from the WMT 2021 news testset and the 2022 general testset was utilized (for which multiple human references are available).
 
 The perturbed version as well as the original reference can be scored against another human reference
 translation of the same source text (see directory ```data/references/```).
 
-The sentences containing the added errors can also be viewed in file ```pro_errors.json```. The file contains the perturbed reference translation, the correct (reference) translation, a second reference and the source segment, each with the corresponding two context sentences. I didn't use the JSON file for my expiremnts, i.e. it was mainly created for illustration pruposes so that the sentences with the added errors can be viewed easily.
+The contrasting translations can also be viewed in the file ```pro_errors.json```. The file contains the perturbed reference translation, the correct (reference) translation, a second reference and the source segment, each with the corresponding two context sentences. I didn't use the JSON file for my expiremnts, i.e. it was mainly created for illustration pruposes so that the sentences with the added errors can be viewed easily.
 
 The translation errors were created semi-automatically.
 
