@@ -1,4 +1,4 @@
-# Master's Thesis: Scoring pronoun translation mistakes with ChatGPT
+# Scoring pronoun translation mistakes with ChatGPT
 
 To explore whether the document-level version of [GEMBA](https://github.com/MicrosoftTranslator/GEMBA) is suitable for evaluating MT output at the document-level, this code was written to measure its sensitivity to discourse-level translation errors (see chapter 6.5 in thesis). Specifically, contrasting translations (one with a pronoun mistranslation and one without an error) are scored to see whether the higher score is correctly given to the translation without an error.
 
